@@ -1,0 +1,534 @@
+I beg to move, That the House sit in private.
+Question put forthwith ( Standing Order No. 163 ) and negatived.
+Consideration of Bill, as amended in the Public Bill Committee
+Before we begin, I would like to say a few words about today’s proceedings. New clauses and amendments are grouped in two groups for debate to enable two clear and coherent debates on aspects of the Bill. I will shortly call the Member in charge to move her new clause 10. Debate on the first group will take place on the question that new clause 10 be read a Second time. If that question is agreed to, I am minded to select amendment (a) to new clause 10 in the name of Rebecca Paul for separate decision.
+We have more than 90 Members who have indicated that they wish to speak in the first debate, but not all hon. Members will be called. It is not customary to impose a speech time limit on a private Member’s Bill, but I hope that Members in charge of the Bill, and the speakers after them, will restrict themselves in the early part of the debate to no more than 15 minutes in the first instance, including taking interventions. The time limit will have to drop accordingly thereafter, and the Chair will review that guidance as the debate progresses. We need to ask for shorter speeches to enable more Members to contribute. I should make it clear that the Chair retains the right to impose a formal speech time limit, but I would rather colleagues help each other. This is a very important debate that divides in different ways. Today is an opportunity primarily for Back Benchers. I do not expect to call Front Benchers to speak until at least 1.30 pm.
+“(1) No person is under any duty to participate in the provision of assistance in accordance with this Act.
+(2) No registered medical practitioner is under any duty to become—
+(a) the coordinating doctor in relation to any person, or
+(b) the independent doctor in relation to any person.
+(3) No registered medical practitioner, other than the coordinating doctor or the independent doctor, is under any duty to perform any function under or in connection with this Act other than—
+(a) a function relating to the giving of notifications, or
+(b) a function relating to the recording of matters in a person’s medical records.
+(4) No health professional or social care professional is under any duty to respond when consulted under section 11(3)(b) (requirement for assessing doctor to consult professional with relevant qualifications or experience).
+(5) No registered pharmacist or registered pharmacy technician is under any duty to participate in the supply of an approved substance to a registered medical practitioner for use in accordance with section 23.
+(6) No person is under any duty to—
+(a) act as a witness under this Act, or
+(b) act as a proxy under this Act.
+(7) Nothing in this section affects—
+(a) any duty relating to the giving of notifications under this Act or the recording of matters in a person’s medical records,
+(b) any duty relating to a requirement to keep records or to provide information, or
+(c) any duty of a professional to respond to enquiries made under section 11(2)(b) (enquiries by assessing doctor) relating to health or social care the professional is providing, or has recently provided, to a person seeking assistance under this Act.
+(8) Schedule (Protection from detriment) amends the Employment Rights Act 1996 to make provision to protect employees and other workers from being subjected to any detriment for—
+(a) exercising (or proposing to exercise) a right under this section not to participate in an activity or perform a function, or
+(b) participating in the provision of assistance in accordance with this Act or performing any other function under this Act.
+(9) In this section—
+(a) a reference to a duty includes any duty, whether arising from any contract, statute or otherwise;
+(b) “registered pharmacist” and “registered pharmacy technician” have the same meaning as in the Pharmacy Order 2010 (S.I. 2010/231) (see article 3 of that Order).”—(Kim Leadbeater.)
+This new clause, intended to replace clause 28, expands the protection currently provided by that clause by broadening the persons to whom it applies and the functions to which it relates; and it introduces NS1 which makes provision for enforcement of the right not be subject to detriment in connection with the Bill
+Brought up, and read the First time.
+I beg to move, That the clause be read a Second time.
+With this it will be convenient to discuss the following:
+Amendment (a) to new clause 10, after subsection 8(b), insert—
+“(8A) Nothing in Schedule (Protection from Detriment) prevents an employer who has chosen not to participate in the provision of assistance in accordance with this Act from prohibiting their employees or workers from providing such assistance in the course of their employment or work with that employer.”
+This amendment ensures that employees who work for an employer who had chosen not to provide assisted dying cannot do so whilst working for that employer.
+New clause 11—Replacing the coordinating or independent doctor where unable or unwilling to continue to act—
+“(1) This section applies where—
+(a) after a first declaration has been witnessed by the coordinating doctor, that doctor is unable or unwilling to continue to carry out the functions of the coordinating doctor, or
+(b) after a referral is made under section 9(3)(c) (including a referral to which section 12(4) applies), but before a report under section 10 has been made by virtue of that referral, the independent doctor is unable or unwilling to continue to carry out the functions of the independent doctor,
+and in this section such a coordinating or independent doctor is referred to as “the outgoing doctor”.
+(2) The outgoing doctor must as soon as practicable give written notice of their inability or unwillingness to continue to carry out their functions under this Act to—
+(a) the person seeking assistance,
+(b) the Commissioner, and
+(c) if the outgoing doctor is the independent doctor, the coordinating doctor.
+(3) Any duty or power of the outgoing doctor under this Act that arose in consequence of the declaration or referral mentioned in subsection (1) ceases to have effect from the time the outgoing doctor complies with subsection (2); but this does not apply to any duty under subsection (8) or (9).
+(4) The Secretary of State may by regulations make provision relating to the appointment, with the agreement of the person seeking assistance, of a replacement coordinating doctor who meets the requirements of section 7(5) and who is able and willing to carry out the functions of the coordinating doctor.
+(5) Regulations under subsection (4) may, in particular, make provision to ensure continuity of care for the person seeking assistance despite the change in the coordinating doctor.
+(6) Where the independent doctor gives a notice under subsection (2)—
+(a) a further referral may be made—
+(i) under section 9(3)(c) (if section 12 does not apply), or
+(ii) where section 12 applies, under subsection (2) of that section, and
+(b) the registered medical practitioner to whom that referral is made becomes the independent doctor (replacing the outgoing doctor) and sections 10 to 12 (and this section) apply accordingly.
+(7) Subsections (8) and (9) apply where the coordinating doctor—
+(a) gives a notice under subsection (2) to the person seeking assistance, or
+(b) receives a notice under that subsection given by the independent doctor in relation to the person seeking assistance.
+(8) Where the coordinating doctor is a practitioner with the person’s GP practice, the coordinating doctor must, as soon as practicable, record the giving of the notice in the person’s medical records.
+(9) In any other case—
+(a) the coordinating doctor must, as soon as practicable, notify a registered medical practitioner with that practice of the giving of the notice, and
+(b) the practitioner notified under paragraph (a) must, as soon as practicable, record the giving of the notice in the person’s medical records.”
+This new clause makes provision about the replacement of the coordinating doctor or the independent doctor where the doctor is unable or unwilling to continue to carry out their functions under the Bill.
+New clause 12—Report where assistance not provided because coordinating doctor not satisfied of all relevant matters—
+“(1) This section applies where a person is not provided with assistance under section 23 because the coordinating doctor is not satisfied as to all of the matters mentioned in section 23(5).
+(2) The coordinating doctor must make a report which—
+(a) sets out the matters as to which they are not satisfied, and
+(b) contains an explanation of why they are not satisfied of those matters.
+(3) The Secretary of State may by regulations make provision about the content or form of the report.
+(4) The coordinating doctor must give a copy of the report to—
+(a) the person,
+(b) if the coordinating doctor is not a practitioner with the person’s GP’s practice, a registered medical practitioner with that practice, and
+(c) the Commissioner.”
+This new clause (intended to be inserted after Clause 27) requires the coordinating doctor to produce a report where assistance is not provided because they are not satisfied of all of the matters mentioned in Clause 23(5).
+New clause 1—No health professional shall raise assisted dying first—
+“No registered medical practitioner or other health professional shall raise the subject of the provision of assistance in accordance with this Act with a person unless that person has first raised it.”
+New clause 2—No health professional shall raise assisted dying with a person under 18—
+No registered medical practitioner or other health professional shall raise the subject of the provision of assistance in accordance with this Act with a person under the age of 18.”
+New clause 7—Doctor independence—
+“(1) Any same two registered medical practitioners may not be involved in the assessment of any one person (whether as co-ordinating doctor or independent doctor) more than three times in any 12-month period.
+(2) Where section 13 applies the Commissioner may authorise one additional instance in any relevant 12-month period.
+(3) The Secretary of State may, by regulations, modify the time periods specified in subsections (1) and (2) if, in the reasonable opinion of the Secretary of State, such modification is—
+(a) necessary to ensure the availability of assisted dying, and
+(b) does not compromise the independence of the two assessments.”
+This new clause limits the number of times two doctors can both act in the assessment of any one person to three times a year. It allows for the Commissioner to increase that limit in the case of death or incapacity of a doctor. Finally, the Secretary of State is given the power to modify that limit. Amendment 50 is consequential to this and ensures such regulations are made using the affirmative procedure.
+New clause 9—Standard of proof—
+“(1) Where a registered medical practitioner is required to be satisfied of a matter (other than under section 23(5)), the applicable standard of proof is a balance of probabilities but if they are not satisfied beyond reasonable doubt they must indicate in their report or statement that they are not so satisfied.
+(2) Where an Assisted Dying Review Panel is required to be satisfied of a matter, the applicable standard of proof is beyond reasonable doubt.
+(3) Where a registered medical practitioner is required to be satisfied of matters arising under section 23(5), the applicable standard of proof is beyond reasonable doubt.”
+This new clause would require the co-ordinating and independent doctor to flag if they are unsure whether one of the eligibility requirements is met or not. It also requires that a panel has to be sure that all the eligibility requirements are met. Finally, it requires the doctor administering the lethal substance to be sure that the person has capacity, a clear settled and informed wish to end their life, and is acting voluntarily without coercion and pressure.
+New clause 16—Wish to end one’s own life—
+“(1) A person does not have a wish to seek assistance to end their own life in accordance with this Act under section 5(5) if they are substantially motivated by—
+(a) not wanting to be a burden on others or on public services,
+(b) a mental disorder (including depression),
+(c) a disability (other than the terminal illness),
+(d) financial considerations, including lack of adequate housing,
+(e) lack of access, or delayed access, to treatment or other service which a public authority is required (or can reasonably be expected to) provide, or
+(f) suicidal ideation.”
+This new clause ensures that a wish to end one’s own life that is substantially motivated by the factors listed in the amendment does not qualify for the provision of assistance under this Act.
+New clause 17—No detriment for care home or hospice not providing assistance—
+“(1) No regulated care home or hospice shall be subject to any detriment by a public authority as a result of not—
+(a) providing assistance in accordance with this Act, or
+(b) permitting such assistance to take place on their premises.
+(2) No funding given by a public authority to a regulated care home or hospice can be conditional on that care home or hospice—
+(a) providing assistance in accordance with this Act, or
+(b) permitting such assistance to take place on their premises.”
+This new clause would mean that regulated care homes and hospices cannot be subject to any detriment for not providing or permitting assistance in accordance with this Act, and that their funding cannot be conditional on them providing or permitting such assistance.
+New clause 18—Care Homes and Hospices to decide their own involvement—
+“(1) Nothing in this Act prevents any regulated care home or hospice from deciding whether (and if so to what extent) it wishes to provide assistance under this Act or to allow it on its premises.”
+This new clause ensures that care homes and hospices are free to decide whether and to what extent they wish to provide assistance under this Act or allow it on their premises.
+Amendment 80 to clause 2, page 2, line 4, leave out “and” and insert—
+“(aa) As a result of that illness or disease the person is experiencing (or will likely experience) severe pain and discomfort that cannot be reasonably relieved to the person’s satisfaction through palliative care, and”.
+This amendment requires that, in order to qualify, the terminal illness causes (or is likely to cause) severe pain and discomfort that cannot reasonably be relieved through palliative care.
+Amendment 18, page 2, line 6, leave out from “expected” to end.
+This amendment would remove the six-month time limit for a person to be eligible for an assisted death.
+Amendment 4, page 2, line 6, leave out “within 6 months” and insert—
+“(i) in the case of a neurodegenerative illness or disease, within 12 months; or
+(ii) in the case of any other illness or disease, within 6 months.”
+Amendment 14, page 2, line 6, at end insert—
+“(1A) A person who would not otherwise meet the requirements of subsection (1) shall not be considered to meet those requirements solely as a result of voluntarily stopping eating or drinking.”
+This amendment means that someone who is not terminally ill within the meaning of subsection (1) cannot bring themselves within that definition by voluntarily stopping eating or drinking or both.
+Amendment 38, page 2, line 6, at end insert—
+“(1A) A person who would not otherwise meet the requirements of subsection (1) shall not be considered to meet those requirements solely as a result of refusing standard medical treatment or taking any action intended to bring about a state of terminal illness.”
+This amendment clarifies that an individual who is not already terminally ill under the definition in subsection (1) cannot qualify by refusing standard treatment or taking steps to induce a terminal condition.
+Amendment 55, page 2, line 8, leave out “, disease or medical condition” and insert “or disease”.
+This amendment aligns the wording of subsection (2) with the wording used in subsection (1) (which defines what it means to be “terminally ill” for the purposes of the Bill).
+Amendment 81, page 2, line 16, leave out clause 3.
+Amendment 24 to clause 3, page 2, line 18, at end insert
+“except that section 1(2) of that Act shall not apply”.
+This amendment would disapply the presumption that a person has capacity unless the opposite is established.
+Amendment 17, page 2, line 18, at end insert—
+“(2) For the purposes of the assessment of a person’s capacity under this Act the information relevant to the decision as specified under section 3(1)(a) of the Mental Capacity Act 2005 must include, but is not limited to—
+(a) the options for care and treatment of the terminal illness, including—
+(i) the extent of prognostic certainty of their illness or condition, and
+(ii) the likely effects on day-to-day functioning, symptom management, and pathway to and experience of death of—
+(A) relevant and available care and treatment including palliative care, hospice or other care,
+(B) withdrawal or absence of care and treatment,
+(b) the likely pathway to and experience of death, including relevant risks of complications, following proceeding to self-administer a substance to end their own life under the provisions of this Act,
+(c) a decision to proceed under this Act does not prevent or make unavailable any care and treatment provision that would normally be provided,
+(d) the person’s decision to proceed under this Act must be theirs alone and not bound or directed by the views or decisions of others,
+(e) the person is able to change their mind at any stage of the process for requesting assistance to end their own life under the provisions of this Act, regardless of previous decisions,
+(f) a decision to proceed under this Act is a decision to self-administer a substance to end their own life,
+(g) the self-administration of such a substance is not a medical treatment for their terminal illness but a personal choice concerning life and death, and
+(h) relevant legal consequences from proceeding with a request for assistance to end their own life, including life insurance and categorisation of death certification.”
+Amendment 2 to clause 5, page 3, line 5, leave out subsection (2).
+This amendment is consequential to NC1.
+Amendment 101, page 3, line 7, after “person” insert—
+“, unless the person has Down syndrome or a learning disability, in which case a registered medical practitioner must not initiate, suggest, or raise the matter of assisted dying with that person”.
+This amendment would disallow medical practitioners from initiating a conversation about assisted dying with a person who has Down Syndrome or a learning disability.
+Amendment 102, page 3, line 12, at end insert—
+“(3A) Before conducting a preliminary discussion under subsection (2) the registered medical practitioner must ensure that the person has no remediable suicide risk factors which pose a significant risk to their life.”
+This amendment would mean that a preliminary discussion could not be held with someone who has remediable suicide risk factors which pose a significant risk to their life.
+Amendment 26, page 3, line 20, leave out “, hospice”.
+This amendment leaves out reference to a hospice, since this is a setting for the provision of palliative care.
+Amendment 56 to clause 7, page 4, line 14, at end insert—
+“(2A) The coordinating doctor must give a copy of the first declaration to the Commissioner as soon as reasonably practicable after it has been made.”
+This amendment requires the coordinating doctor to give a copy of the first declaration to the Commissioner.
+Amendment 57, page 5, line 14, leave out “include training about” and insert “provide that the practitioner must have had training about the following”.
+This clarifies that the obligation under subsection (7) is to specify training about certain matters.
+Amendment 58, page 5, line 18, leave out—
+“specific and up-to-date training on”.
+This clarifies that the training is to be about adjustments and safeguards for autistic people and person with a learning disability (rather than training about training about such matters).
+Amendment 59, page 5, line 19, at end insert—
+“(d) domestic abuse.”
+This is a drafting change (moving the duty for the regulations to require the coordinating doctor to have received training on domestic abuse so that it is located with other similar duties). See also amendment 74, which defines “domestic abuse” for the purposes of the Bill.
+Amendment 87 to clause 9, page 6, line 2, at end insert—
+“(1A) The coordinating doctor must take all reasonable steps, including by asking the person, the Commissioner, and the relevant Chief Medical Officer, to find out whether that person has previously made a first declaration.
+(1B) If it appears that the person has previously made a first declaration, the coordinating doctor must obtain all relevant reports relating to that first declaration and, if no reports are available, must speak to the doctor who witnessed it unless that is not reasonably possible.”
+Amendment 45, page 6, line 3, leave out from “person” to end of line 16 and insert—
+“(1) On completion of the first declaration, the coordinating doctor must convene a clinical panel to carry out the first assessment.
+(1A) the “first assessment” is an assessment to determine a person’s eligibility for assistance under this Act.
+(1B) The clinical panel must consist of—
+(a) a registered social worker,
+(b) a registered psychiatrist,
+(c) a palliative care consultant, registered on the GMC Specialist Register,
+(d) a doctor who is—
+(i) a consultant in a specialty of the patient’s diagnosis, if the coordinating doctor is a GP, or
+(ii) a GP, if the co-ordinating doctor is a consultant, and
+(e) the coordinating doctor.
+(1C) All registered health and social worker professionals on the clinical panel must have—
+(a) received relevant training as determined by the Secretary of State, and
+(b) opted in to determine that they are eligible to be on that panel.
+(1D) The Secretary of State may by regulations establish a system for registered health and social worker professionals to opt in under subsection (1B).
+(1E) For the first assessment, the clinical panel must establish—
+(a) why the person wants to end their life through an assisted death and the alternatives they have considered,
+(b) the person’s understanding of their disease or illness and how this can be palliated,
+(c) whether there have been any intrinsic or extrinsic coercion which has led to the person seeking an assisted death,
+(d) what support is available to the person and their carers for the duration of the person’s life,
+(e) that the person—
+(i) is terminally ill,
+(ii) has capacity to make the decision to end their own life,
+(iii) was aged 18 or above at the time the first declaration was made,
+(iv) is in England and Wales,
+(v) is an ordinary resident in England and Wales and has been so resident for at least 12 months ending with the date of the first declaration,
+(vi) is registered as a patient with a general medical practice in England or Wales,
+(vii) has a clear, settled and informed wish to end their own life,
+(viii) made the first declaration voluntarily and has not been subject to coercion or pressured by any other person into making it,
+(ix) is secure in their decision, and
+(x) is not having their decision making impacted by their mental health.
+(1F) The clinical panel must provide the person with information on the support available for the duration of their life, including future care planning.
+(1G) The members of the clinical panel must meet with the patient.
+(1H) For the purposes of subsection (1G), the person may meet the clinical panel members separately or as a group, depending on the person’s wishes.
+(1I) When all assessments are complete all the members of the clinical panel must meet to discuss the patient’s safety, eligibility and care plan, including referral to specialist services.
+(1J) Should the panel come to the view that the criteria set out in subsection (1E)(e) are not met, they must prepare a written statement and a member of the panel must meet the patient to discuss their findings.
+(1K) When presenting the report under subsection (1J), the member of the panel must discuss with the person—
+(a) the options available to the person, which can include the provision of more information, and
+(b) access to the clinical or other support they require.”
+Amendment 30, page 6, line 8, at end insert—
+“(ca) has relevant and available palliative care options,”.
+This amendment would mean that someone is only eligible for assistance in ending their own life under this Act if they have relevant and available palliative care options.
+Amendment 46, page 6, line 27, leave out from “if” to “refer” in line 28 and insert—0 “the clinical panel is satisfied of all the matters listed in subsection (1E)(e),”.
+Amendment 60, page 7, line 1, at end insert—
+“(6) Where—
+(a) a referral is made under subsection (3)(c),
+(b) the independent doctor dies or through illness is unable or unwilling to act as the independent doctor, and
+(c) no report under section 10 has been made by virtue of the referral,
+a further referral may be made under subsection (3)(c).
+(7) Where a referral is made to a registered medical practitioner by virtue of subsection (6), that practitioner becomes the independent doctor (replacing the registered medical practitioner to whom a referral was originally made) and sections 10 to 12 and (Replacing the coordinating or independent doctor where unable or unwilling to continue to act) apply accordingly.”
+This amendment makes provision, corresponding to the provision in clause 12 about the death or illness of a doctor from whom a second opinion is sought, for a further referral to be made where, before reporting, the independent doctor dies or through illness is unable or unwilling to act.
+Amendment 32 to clause 10, page 8, line 6, at end insert—
+“(aa) is a practitioner approved as having special experience in the diagnosis or treatment of mental disorder for the purposes of subsection (2) of Section 12 (General provisions as to medical recommendations) of the Mental Health Act 1983,”
+This amendment would require the independent doctor to have special experience in the diagnosis of mental disorder.
+Amendment 61, page 8, line 22, leave out “include training about” and insert “provide that the practitioner must have had training about the following”.
+This clarifies that the obligation under subsection (10) is to specify training about certain matters.
+Amendment 62, page 8, line 25, at end insert “(c) domestic abuse.”
+This is a drafting change.
+Amendment 51 to clause 11, page 9, line 10, at end insert—
+“(v) whether, according to any reasonable body of medical or scientific opinion, there are risks of complications (including pain), and what those complications are, from the substance to be ingested;”
+This amendment requires doctors to inform persons seeking assisted dying of any reasonable medical and scientific opinion according to which the lethal drugs have a risk of complication and what those complications are.
+Amendment 33, page 9, line 24, at end insert—
+“(fa) ask the person whether they have discussed the request with their next of kin and other persons they are close to and, where they have not done so, discuss their reasons for not doing so.”
+This amendment would require the assessing doctors to ask the person whether they have discussed their request for an assisted death with family and friends, and to discuss their reasons if not, in order to decide whether to advise that they should do so under subsection (g).
+Amendment 22, page 9, line 28, leave out from “must” to end of line 33 and insert— “consult such other health and social care professionals with qualifications in, or experience of, a matter relevant to the person being assessed, including but not limited to clinical, psychological and social matters.”
+This amendment would require the assessing doctor to consult other health professions and other persons as the assessing doctor sees fit on clinical, psychological and social matters relevant to the person.
+Amendment 63, page 9, line 44, leave out “, disease or condition” and insert “or disease”.
+This amendment aligns the wording used here with the wording used in Clause 2(1) (which defines what it means to be “terminally ill” for the purposes of the Bill).
+Amendment 64 to clause 12, page 10, line 40, leave out “section 10 and 11” and insert—
+“sections 10, 11 and (Replacing the coordinating or independent doctor where unable or unwilling to continue to act)”.
+This amendment is consequential on NC11.
+Amendment 65, page 11, line 3, at end insert—
+“and section (Replacing the coordinating or independent doctor where unable or unwilling to continue to act)(6)(a)(ii)”.
+This amendment is consequential on NC11.
+Amendment 47 to clause 14, page 11, line 33, at end insert—
+“(2A) The Commissioner must give notice of the referral to any persons who are likely to have an interest in being notified by virtue of being persons properly interested in the welfare of the person to whom the referral relates, and other persons they are close to.
+(2B) Those persons may either become parties to the proceedings before the panel or may give evidence to the panel without becoming parties, at the Panel’s discretion.
+(2C) The Commissioner must issue a practice direction relating to the matters in subsection (2A) and (2B).”
+Amendment 48, page 11, line 33, at end insert—
+“(2A) The Commissioner must give notice of the referral to the designated authority and make them a party to the proceedings.
+(2B) The designated authority must send a representative or advocate to the panel who will be tasked to make all reasonable arguments to the panel for why a certificate of eligibility should not be granted.
+(2C) The designated authority shall be one of the following as chosen by the Secretary of State in regulations—
+(a) the Official Solicitor,
+(b) the King’s Proctor,
+(c) the Attorney General, or
+(d) any other body so designated by the Secretary of State.”
+Amendment 31 to clause 15, page 12, line 17, at end insert—
+“(da) that the person has relevant and available palliative care options,”.
+This amendment, which is linked to Amendment 30 would mean that someone is only eligible for assistance in ending their own life under this Act if they have relevant and available palliative care options.
+Amendment 5, page 12, line 29, at end insert—
+“(j) that there are no psychological, social or environmental factors influencing the person to make the decision.”
+This amendment ensures that the panel must be satisfied that no psychological, social or environmental factors are influencing the decision of a person to seek assisted dying.
+Amendment 6, page 12, line 33, leave out “may” and insert “must”.
+This amendment would require the panel to question the coordinating doctor or the independent doctor.
+Amendment 7, page 12, line 35, leave out “may” and insert “must”.
+This amendment would require the panel to question the person seeking an assisted death.
+Amendment 10, page 12, line 36, at end insert—
+“(ba) must ask the person whether they have discussed the request with their next of kin and other persons they are close to and, where they have not done so, discuss their reasons for not doing so;”
+This amendment would require the Voluntary Assisted Dying Panel to ask the person whether they have discussed their request for an assisted death with family and friends, and to discuss their reasons if not, in order to determine whether to grant a certificate of eligibility.
+Amendment 8, page 12, line 38, at end insert—
+“(ca) must consider hearing from and questioning—
+(i) persons properly interested in the welfare of the person to whom the referral relates, and other persons they are close to; and
+(ii) any other person who has provided treatment or care for the person to whom the referral relates in relation to that person’s terminal illness;”.
+This amendment would require the panel to consider hearing from those with an interest in the welfare of the person and those who have provided treatment to them.
+Amendment 11, page 13, line 4, leave out subsection (6) and insert—
+“(6) If the panel is of the opinion that there are exceptional circumstances which justify not hearing from the person, then the duties under subsections (4)(b) and (4)(ba) do not apply.”
+This amendment is connected to Amendment 10.
+Amendment 23, page 13, line 14, at end insert—
+“(ca) where the person to whom the referral relates is under the age of 25, their next of kin;”.
+Amendment 49 to clause 16, page 13, line 23, leave out subsections (1) to (4) and insert—
+“(1) The person applying for assisted dying, any parties  to the proceedings, or the registered medical practitioners who are treating them may apply to  the Commissioner for the Panel’s decision to be reconsidered.
+(2) Anyone with evidence, which was not before the Panel, showing that a certificate of eligibility should not have been issued may apply to the Commissioner for the Panel’s decision to be reconsidered.
+(3) The Commission must consider, without a hearing, whether an application under subsection (1) or subsection (2) raises an arguable case that the Panel’s decision was—
+(a) wrong, or
+(b) unjust because of a serious procedural or other irregularity in the proceedings.
+(4) Upon receiving an application under subsection (2) the Commissioner must—
+(a) if satisfied that there is an arguable case that either of the criteria in subsection (3) are met, refer as soon as reasonably practicable the person’s case to a different Assisted Dying Review Panel for a determination of whether either of the criteria in subsection (3) are met,
+(b) in any other case, dismiss the application.
+(5) If the new Assisted Dying Review Panel concludes that the either criterion under subsection (3) is met, they must consider the person’s eligibility for a certificate of eligibility application afresh.
+(6) The new Assisted Dying Review panel may consider whether either of the subsection (3) criteria are met and the fresh application under subsection (5) together.
+(7) An assisted death must not take place for a person whose application for assisted dying is subject to the process under subsections (1) to (6) until the conclusion of that process.”
+Amendment 66, to clause 23, page 19, line 21, leave out “subsection (3)” and insert “subsection (2)”.
+This is a drafting change.
+Amendment 67, page 19, line 32, at end insert—
+“(6A) An approved substance may be provided to a person under subsection (2) by—
+(a) preparing a device which will enable that person to self-administer the substance, and
+(b) providing that person with the device.
+In the case of an approved substance so provided, the reference in subsection (3) to the approved substance is to be read as a reference to the device.”
+This amendment clarifies how the clause works in cases where an approved substance is provided by preparing a device and providing a person with the device.
+Amendment 68, page 19, line 36, leave out paragraph (b).
+This amendment is consequential on amendment 67.
+Amendment 91 to clause 26, page 21, line 22, leave out paragraph (a) and insert—
+“(a) the person’s full name, date of birth, sex, ethnicity, and last permanent address;
+(aa) whether, immediately before death, the person had a disability within the meaning of section 6 of the Equality Act 2010 (other than a disability consisting of the illness or disease which caused the person to be terminally ill within the meaning of this Act);”
+This amendment expands the duty as regards regulations about final statements so as to provide that certain additional information is included in final statements.
+Amendment 52, page 22, line 28, leave out clause 28.
+This amendment is consequential on NC10.
+Amendment 16 to clause 28, page 22, line 35, insert—
+“(3) There is no obligation on any care home or hospice regulated by the Care Quality Commission or the Care Inspectorate Wales to permit the provision of assistance under this Act on their premises.”
+This amendment prevents there being any obligation on a care home or hospice which is regulated in England or Wales to permit the provision of assistance under the Act on their premises.
+Amendment 74 to clause 52, page 35, line 20, at end insert—
+““domestic abuse” has the meaning given by section 1 of the Domestic Abuse Act 2021 (and accordingly includes behaviour that is controlling or coercive or that constitutes economic abuse);”
+This amendment defines “domestic abuse” for the purposes of the Bill.
+Amendment 75, page 35, line 31, at end insert—
+““learning disability” has the meaning given by section 1(4) of the Mental Health Act 1983;”.
+This amendment defines “learning disability” for the purposes of the Bill.
+New schedule 1—Protection from detriment—
+“Schedule
+1 The Employment Rights Act 1996 is amended as follows.
+2 After section 43M insert—
+“43N Provision of assistance under Terminally Ill Adults (End of Life) Act 2025
+(1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by the worker’s employer done on the ground that the worker has—
+(a) exercised (or proposed to exercise) a right conferred on the worker under section (No obligation to provide assistance etc) of the Terminally Ill Adults (End of Life) Act 2025 (no obligation to provide assistance etc), or
+(b) participated in the provision of assistance to a person to end their own life in accordance with that Act, or performed any other function under that Act, in accordance with that Act.
+(2) Subsection (1) does not apply where—
+(a) the worker is an employee, and
+(b) the detriment in question amounts to dismissal within the meaning of Part 10.
+(3) For the purposes of this section, and of sections 48 and 49 so far as relating to this section, “worker” and “employer” have the extended meaning given by section 43K.”
+3 (1) Section 48 (complaints to employment tribunals) is amended as follows.
+(2) After subsection (1) insert—
+“(1WA) A worker may present a complaint to an employment tribunal that the worker has been subjected to a detriment in contravention of section 43N(1).”
+(3) In subsection (2), after “(1)” insert “, (1WA)”.
+4 (1) Section 49 (remedies) is amended as follows.
+(2) In subsection (1), after “section 48(1)” insert “, (1WA)”.
+(3) In subsection (2), after “subsections” insert “(5YA),”.
+(4) After subsection (5) insert—
+“(5YA) Where—
+(a) the complaint is made under section 48(1WA),
+(b) the detriment to which the worker is subjected is the termination of the worker’s contract, and
+(c) that contract is not a contract of employment,
+any compensation must not exceed the compensation that would be payable under Chapter 2 of Part 10 if the worker had been an employee and had been dismissed for a reason specified in section 98C.”
+5 After section 98B insert—
+“98C Provision of assistance under Terminally Ill Adults (End of Life) Act 2025
+An employee who is dismissed is to be regarded for the purposes of this Part as unfairly dismissed if the reason (or if more than one, the principal reason) for the dismissal is that the employee—
+(a) exercised (or proposed to exercise) a right conferred on the employee under section (No obligation to provide assistance etc) of the Terminally Ill Adults (End of Life) Act 2025 (no obligation to provide assistance etc), or
+(b) participated in the provision of assistance to a person to end their own life in accordance with that Act, or performed any other function under that Act, in accordance with that Act.”
+6 In section 105 (redundancy), after subsection (2A) insert—
+“(2B) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in section 98C.”
+7 In section 108 (qualifying period of employment), in subsection (3), after paragraph (aa) insert—
+“(ab) section 98C applies,”.
+8 In section 205 (remedy for infringement of certain rights), after subsection (1) insert—
+“(1XA) In relation to the right conferred by section 43N(1), the reference in subsection (1) to an employee has effect as a reference to a worker.”
+9 In section 230 (definitions of employees, workers etc) in subsection (6)—
+(a) after “43K” insert “, 43N(3)”;
+(b) after “Part IVA” insert “, section 43N”.”
+This new Schedule amends the Employment Rights Act 1996 so as to provide remedies for persons subjected to detriment for exercising or proposing a right conferred by NC10 or for participating in the provision of assistance in accordance with, or performing any other function under, the Bill.
+Amendment 78 to schedule 2, page 42, line 26, at end insert—
+“, or
+(b) abstains from voting on such a decision.”
+This amendment ensures that a panel must not grant certificate of eligibility unless all members consider that such a certificate should be granted.
+Amendment 79, page 43, line 7, at end insert—
+“(2) As soon as reasonably practicable after making a decision, a panel must give the following a document containing its reasons for the decision—
+(a) the person to whom the referral in question relates;
+(b) the coordinating doctor in relation to the person;
+(c) the Commissioner.”
+This amendment requires a panel to give the persons mentioned a document containing its reasons for any decision made by the panel.
+It is a privilege to open the debate on this next important stage of the Terminally Ill Adults (End of Life) Bill. It seems a long time ago that we held the Second Reading debate in November on what many of us felt was a very proud day for Parliament, when we saw an emotional and passionate but largely respectful debate on a hugely important subject that means so much to so many people.
+I know that there are a range of views on the subject of choice at the end of life, and today is not about revisiting the fundamental principle of assisted dying. Before I address the amendments in my name, as the sponsor of the Bill, I will make some brief introductory  comments on why we are here. Put simply, if we do not vote to change the law, we are essentially saying that the status quo is acceptable. Over recent months, I have heard hundreds of stories from people who have lost loved ones in deeply difficult and traumatic circumstances that show that that is clearly not the case. Too many have seen their terminally-ill loved ones take their own lives out of desperation or make the traumatic, lonely and costly trip to Switzerland, and then face a police investigation while dealing with their grief and loss.
+My hon. Friend mentioned many real stories influencing this debate. I will mention one more: my constituent Mick Murray, who is in the Public Gallery today. Mick helped two close friends, Bob and Ann, to make the painful journey to Dignitas. Both simply wanted to die at home with dignity and surrounded by loved ones; instead, they had to make that journey overseas at great cost and legal jeopardy. Mick said:
+“I helped them out of compassion — and I think that is what’s missing from our current law.”
+Does my hon. Friend agree—
+Order. We will set the example by following the rules of the House. We will have short interventions, not speeches. There are a load of other Members.
+I thank my hon. Friend for that intervention. That was a very powerful point, if slightly long. There are people who face these really traumatic and difficult decisions every day, including Louise Shackleton, who I believe is also with us today.
+On a point of order, Mr Speaker. I thought this was a debate to discuss amendments, not a general debate.
+It is, but I think this is the opening lead-in to the amendments. I will make that judgment call.
+Thank you, Mr Speaker. If I may just finish that point—
+rose—
+Order. May I just say to people that if we are going to have continuous interventions, and  if they continue to make the same intervention, they should not be shocked if they end up at the bottom of the list? I want to help people, because all this does is soak up time. Jim Shannon will be a good example.
+Mr Speaker, I will always be at the end of the list, so it is important for me to make an intervention.  The hon. Member for Spen Valley (Kim Leadbeater)  set the scene very well on Second Reading, but since then things have changed. For instance, the Royal College of Psychiatrists has voiced strong concerns in opposition to the Bill about judicial oversight, robust protections against coercion and so on, as well as the effect it will have on vulnerable groups such as those with dementia, Down syndrome or mental illnesses. Does the hon. Lady not respect the viewpoints of my constituents who   tell me that they are opposed to the Bill in principle  and all the things that are coming forward? The new clause does not address the issues that the hon. Lady is referring to.
+I thank the hon. Gentleman for that intervention and he is absolutely right that there are a range of views on this issue, and I am deeply respectful of that. I take all those points into consideration as we embark on this debate again today.
+Perhaps most importantly, Mr Speaker, I have spoken to terminally ill people themselves over recent months. It is impossible to know what it must feel like to receive a terminal diagnosis and I have nothing but admiration for people who have bravely spoken about their personal situations, some publicly—including, of course, Dame Esther Rantzen—and others who have done so privately, many by emailing their MP. I know mine is not the only inbox full of such emails.
+Will my hon. Friend distance herself from the correspondence from Dame Esther Rantzen, who accused those of us who have concerns about the Bill of having undeclared religious beliefs? Many colleagues found that distasteful and disrespectful.
+I thank my hon. Friend for that intervention. I have not seen those comments, but it is absolutely right that whatever our views are on this issue, we must remain respectful.
+I also want to thank colleagues here in Parliament—MPs and indeed staff—who have shared their personal stories of loss with me over recent months. This is a really important point: these are real people with real stories, and they must always be at the heart of the debate.
+Public support for assisted dying in this country has been consistently high for a long time now, and we have seen movement in jurisdictions around the world, including just this week in Scotland. I congratulate colleagues in Holyrood, particularly Liam McArthur MSP, for holding such a compassionate and respectful debate, which I hope we can emulate today.
+It is right that we consider this change with great care, as we are doing today. But we should also remember, as with other big social changes such as giving women bodily autonomy on their reproductive rights or allowing gay—
+Order. We did say, when we had the conversation, that there should just be an introduction to the debate very early on. I think this is why Members are beginning to get frustrated; we should now be speaking to the amendments.
+Thank you, Mr Speaker. I will move on to the amendments. If I may, I want to acknowledge the work of the Bill Committee in relation to the amendments, because a huge amount of work was done by Members from all parties, with a range of views—
+Order. I am really bothered, because today is a day for amendments, and we really need to understand the views they cover. As the Member in  charge of the Bill, you will, I am sure, really want to get into the depth of the amendments and not continue in that way.
+I do indeed, Mr Speaker; you are absolutely right. The amendments that we are discussing today build on some of the work of the Committee, and I think that is important. We took a lot of steps to strengthen the Bill in Committee, and I was pleased to work collaboratively with colleagues in that way.
+As I come on to the amendments, which have been tabled in my name, let me say that the Government are, of course, neutral on the issue of assisted dying, but have always been clear that workability is essential if the Bill is to pass. I have worked closely with an outstanding team of civil servants from the Department of Health and Social Care and the Ministry of Justice, and it is with their technical advice on making the Bill workable and giving coherence to the statute book that I propose these amendments today.
+Will the hon. Lady confirm that those civil servants are 100% comfortable with the impact of the Bill and that people with disability, mental health issues, neurodiversity and other medical conditions will not be coerced or under pressure because of this Bill?
+I thank the right hon. Gentleman for that intervention. The civil servants are clearly neutral on the issue. They certainly have not expressed any opinions on the content of the Bill. They have merely provided the technical advice and expertise, and they have done so brilliantly in that regard.
+New clause 10, amendment 52 and new schedule 1 are tabled in my name. As well as correcting the injustices in the legal situation, one key tenet of this Bill is choice for dying people, but it is also important that there is choice for doctors and other healthcare professionals and, indeed, anyone else. The Bill was always clear that:
+“No registered medical practitioner or other health professional is under any duty…to participate in the provision of assistance in accordance with this Act”,
+but new clause 10 expands that protection. It broadens the people to whom it applies and the functions to which it relates. New schedule 1 makes provision for enforcement of this right
+“not to be subjected to any detriment”
+in connection with the Bill.
+Does my hon. Friend accept that there may be a weakness in new schedule 1, in as far as it protects a person from actions taken by their employer? For example, it would not necessarily protect an agency worker who is contracted to perform a service, but the original medical body decides not to re-engage that person’s services.
+I refer my hon. Friend to my previous comments that the Bill and these clauses and schedules have been drafted with the highest level of legal expertise. It is not something I anticipate being a problem.
+The Bill does allow applicants to shop around for doctors, and it strikes me that there is a danger that some  doctors, who might have an ideological view of the Bill, will specialise in the provision of that service, which would give it rather greater scope than the hon. Lady intends.
+I reject the assertion that patients will shop around. Bearing in mind that we are talking about dying people, they are not in a position to start shopping around for services, but I also agree that the Bill is strict in that regard. There are very strict protocols that doctors will have to follow.
+Will the hon. Lady give way?
+I will just make some progress, if I may.
+It is about not just patient choice but choice for professional people, too. We know there are a range of views on assisted dying across a range of professions. I have always been clear that no one who is uncomfortable taking part should have to, and nor should there be any detriment to anyone, whatever choice they make in whatever role they have.
+It is welcome that new clause 10 seeks to protect more individuals, but can my hon. Friend say why she has still not chosen to make provision for hospices and care homes to opt out without having their funding threatened?
+There is absolutely nothing in the Bill that has any suggestion that any funding would be impacted by whatever decisions organisations make around assisted dying.
+I will make some progress. New clause 10(1) states clearly:
+“No person is under any duty to participate in the provision of assistance in accordance with this Act.”
+That is something I feel strongly on a personal level. If people do not want to be involved, they should not have to be involved, and those who do, should. Subsection (5) covers pharmacists and pharmacy technicians and new schedule 1 provides comprehensive employment protections, so I hope that whatever colleagues’ views are on assisted dying, they will see the value of these changes and support them.
+I thank my hon. Friend for these amendments, because a number of people have written to me concerned about the very issue that she is raising. Does she agree that many people will just be opposed to assisted dying in all its forms, and I entirely respect that, but if that is really their objection, they should be honest about that and not pretend that it is only particular amendments they need? They should make the argument that they actually want to make.
+I thank my hon. Friend for that intervention, and I agree that we must be respectful, but we must also be honest with each other.
+Amendment (a) to new clause 10 was tabled by  the hon. Member for Reigate (Rebecca Paul) , who I thank for her work on the Bill Committee. I understand the thinking behind the amendment, but I worry about  unintended consequences for patient care and protection. I have been advised that that is the case, and I think the Minister will speak to that. I think there is consensus across the House that, in the interests of patient safety, it is vital that there is clear and open communication, and sharing of information, between healthcare professionals in the assisted dying process. If an employer can stop their whole workforce participating in any sort of assisted dying services, it could prevent the sharing of information or the recording of information in a patient’s records. That could relate to safeguarding, and it could put patients at risk as a result of the employer’s decision. Terminally ill patients may be receiving different treatment at different places and from different healthcare professionals, and it would potentially be harmful if they were not able to transfer information or records.
+There are also workability issues with amendment (a) to new clause 10. It is not clear how it would work with regard to the requirement in subsection (7) for professionals to provide information to an assessing doctor about a patient—someone whom they may have previously treated—or in relation to information about a specific condition that they may specialise in. That information would need to be provided in the interests of patient care. An employee will always be bound by their contract of employment, but flexibility is needed, as many health and care professionals work for multiple employers. It is not uncommon for clinical staff to have more than one employer—for example, a doctor may be employed by the NHS but also work for a hospice—so it is not a straightforward scenario. Just as it would be wrong for anyone to be compelled to be involved in the process, it would be wrong for anyone to be prevented from doing so, particularly if there was an impact on patient safety.
+Before Second Reading, I held a public meeting where I heard a range of views from my constituents. One thing that kept coming up was the need to protect medical professionals from being compelled to take part in assisted dying. I am really pleased to see that being addressed in new clause 10, but does my hon. Friend agree that having the choice to take part must go both ways for medical professionals?
+My hon. Friend is absolutely right. We keep coming back to the word “choice”. It is about choice for patients and terminally ill people, but it is also about choice for medical professionals and others.
+Because of the unintended consequences, I cannot support amendment (a), but I am confident that new clause 10 and new schedule 1 provide robust protections for employees, regardless of their choices about participating in the provision of assisted dying services.
+Would my hon. Friend mind elaborating on the detail of the transferring of medical records? It is my understanding that someone can request their own medical records as a patient.
+The patient could request information, but so could doctors and other healthcare professionals. It would be wrong if people were not allowed to share that information if it was requested, even if their employer did not want them to do it.
+I turn now to new clause 11 and consequential amendments 64 and 65, which will ensure that the Bill is workable by making provision about the replacement of the co-ordinating doctor or the independent doctor where they are unable or unwilling to continue to carry out their functions in the Bill. The doctor may be ill or on holiday, retire, or have a change of personal circumstances.
+What concerns me about new clause 11 is that, essentially, people can shop around if one doctor is unwilling. The hon. Lady has given a list of reasons why a doctor might be unwilling, but surely one of the reasons could be that there is a fundamental change in a person’s circumstances and they do not want to do it. Nothing about that is recorded. Is it not a real weakness of new clause 11 that we do not have the passing on of evidence from one doctor to another?
+This is not about eligibility; it is about the doctor’s change of circumstances, rather than the patient’s. If the doctor decides that the person is not eligible, they will reject the application. They would record that in the patient’s records, so it would be transparent.
+Will my hon. Friend give way?
+I will make some progress, if I may.
+This is essentially about providing flexibility for doctors while ensuring continuity of care for patients, and I hope colleagues can support new clause 11.
+Will the hon. Lady give way?
+I will make a little more progress, if I may, because a lot of people want to speak.
+New clause 12 ensures that there is thorough reporting of instances where the co-ordinating doctor concludes that the patient does not meet the strict eligibility criteria set out in the Bill. It is very important that this data is recorded, but at present there is no requirement for the co-ordinating doctor to produce a report when they are not satisfied about all matters set out in clause 23(5) and will not provide the person with the approved substance. That lack of a reporting obligation does not align with the rest of the Bill—hence new clause 12, which I am sure colleagues will feel it is important to support.
+I thank my hon. Friend very much for giving way. Although it is important that a doctor’s reasons for refusing to provide assistance are noted down, there is nothing in the Bill to ensure that, if the person makes another request in the future, the next co-ordinating doctor will be made aware of the first doctor’s report. Will she say something to reassure those of us with concerns that people suffering mental ill health, including depression, may seek assistance repeatedly until they find a doctor who will assess them as eligible?
+That would not be an issue, because copies of the report would be given to the patent, the co-ordinating doctor if they are not in the patient’s   GP’s practice, and the commissioner, so that information would be recorded, and it is very important that it is. The report must set out the reasons—
+Will the hon. Lady give way?
+I will make some progress, if I may. I am trying to be very open to interventions, but I do need to crack on.
+The report must set out why the co-ordinating doctor is not satisfied and must contain an explanation of why the patient cannot proceed with the assisted dying process. The co-ordinating doctor must give a copy of the report to the person, to the person’s GP practice if they are not a practitioner within that practice, and to the voluntary assisted dying commissioner. That reflects the thorough and robust reporting and monitoring mechanisms throughout the Bill.
+I turn to the other amendments in my name. I will try to keep my comments succinct, as many colleagues wish to speak. Amendment 56 ensures that the co-ordinating doctor gives the commissioner a copy of the patient’s first declaration. That enables the commissioner to carry out their monitoring responsibilities under clause 45. Amendments 57 and 61—
+Will the hon. Lady give way?
+I will.
+Persistence pays off. When considering the Bill, I had presumed that the doctor concerned would be a senior clinician—a senior doctor—but page 63 of the impact assessment refers to pre-registration doctors, who have just completed medical school and are on a provisional registration. Will the hon. Lady confirm that it is her intention that the provisions in the Bill may be carried out by the most junior doctors, as well as by more senior consultants and general practitioners?
+I thank the hon. Lady for her intervention. Given her background, she knows what she is talking about. Regulations will set out the level of expertise required by the doctor, but there will also be training for every single doctor taking part in the assisted dying process. That is done well around the world, so there is work we can build on in that regard.
+Amendments 57 and 61 are essentially tidying-up amendments that modify the wording of the Secretary of State’s duty to set out training requirements in clauses 7 and 10. That fits with the intervention from  the hon. Member for Sleaford and North Hykeham (Dr Johnson) . Training is of paramount importance within the assisted dying process, and there will be a period of years in which anyone who opts in to be part of this process will have thorough and robust training.
+Due to amendments made in Committee, with very good intention, the current wording suggests that the regulations themselves must include details about training. That obviously does not make sense and would be unworkable, as it would have to be done separately. Similarly, amendment 58 removes unclear drafting as a result of changes made in Committee that could have the effect that the regulations have to contain training about training, which obviously does not make sense.
+Amendments 59, 52, 74 and 62 are also tidying-up amendments that are necessary as a result of the introduction of compulsory training for all doctors and panel members in domestic abuse and coercive control, following amendments tabled by my hon. Friend  the Member for Lowestoft (Jess Asato) , which the Bill Committee voted unanimously to accept.
+Amendment 74 ensures that the term “domestic abuse” in the Bill has the same meaning as in the Domestic Abuse Act 2021. It clarifies the definition of “domestic abuse” and ensures that the term is consistent with existing legislation. It provides for a very broad definition to capture the full range of behaviours, including physical or sexual abuse, violent or threatening behaviour, controlling or coercive behaviour, economic abuse, and psychological, emotional or other abuse. It does not matter whether the behaviour consists of a single incident or a course of conduct. These really important amendments address concerns about coercion and provide additional layers of safeguarding within the Bill. As such, I hope colleagues support them.
+Amendment 60 makes provision, corresponding to the provision in clause 12 about the death or illness of a doctor from whom a second opinion is sought, for a further referral to be made where, before reporting, the independent doctor dies through illness, or is unwilling or unable to act. The amendment once again ensures continuity of care and is an important detail to add to the Bill.
+Amendments 67 and 68 clarify the provision of clause 23 in cases where an approved substance requires administration via a medical device. The current drafting of the clause is not clear about whether it is allowable to administer the approved substance via a device, which it is. The amendment provides clarity for clinicians.
+Amendment 91 expands the duty on what must be included in the final statements of patients accessing assisted dying services. It includes additional information to be collected, including whether the person has a disability other than a disability consisting of the illness or disease which caused them to be terminally ill. Data collection and analysis is an important part of the robust monitoring and reporting built into the Bill.
+Amendments 78 and 79 relate to the decisions of the multidisciplinary voluntary assisted dying panels, as  set out in schedule 2—an important change made in Committee. Each panel comprises a legal expert, a social worker and a psychiatrist.
+The Royal College of Psychiatrists states that it does not feel that, at this moment in time, there are sufficient psychiatrists able to take up a position on such a panel. What response does my hon. Friend have to that?
+I thank my hon. Friend for that intervention. The Royal College of Psychiatrists has a neutral position on the issue of assisted dying. If we refer to the impact—[Interruption.] Yes, it does.
+Will the hon. Lady give way?
+I will just finish this point. If we refer to the impact assessment, the number of people who will access assisted dying in the first few years will be very small. I think there are around 4,500 psychiatrists in the country, but there is also a period of time of a number of years to do the training required for psychiatrists taking part in the process, so I would not anticipate any problems there.
+Will the hon. Lady give way?
+I will keep going, if I may, because I think I have been fairly fair.
+Amendment 78 ensures that all three members of the panel must agree before a certificate of eligibility is issued, so abstentions cannot result in approval. The amendment came about as a result of discussions in Committee. It is really important to clarify that when the panel of experts is doing its work, its decision must be unanimous for a certificate of eligibility to be granted and for the patient to proceed. If a panel member abstains, no certificate of eligibility can be granted to the person.
+Schedule 2 also sets out that the panel must give reasons for its decision in each case. This is really important. Amendment 79 ensures that those reasons—the reasons for the panel’s decision—are communicated in writing in a document to the person to whom the referral in question relates, the co-ordinating doctor and the commissioner. This creates clear channels of communication and will enable those people to fully understand the expert panel’s decisions.
+Will the hon. Lady give way on that point?
+I am going to finish, if I may, because other people want to speak.
+Amendment 14, which was tabled by my hon. Friend  the Member for Bradford West (Naz Shah) —another outstanding member of the Committee—states:
+“A person who would not otherwise meet the requirements of subsection (1) shall not be considered to meet those requirements solely as a result of voluntarily stopping eating or drinking.”
+I suspect the amendment has been put forward as a result of the lengthy discussions in Committee regarding whether people with anorexia would be eligible for an assisted death under the Bill. In my previous career before becoming an MP, I worked with a number of people with eating disorders. I am very aware of the hugely sensitive and complex issues surrounding disordered eating, particularly anorexia. I also know that this is a personal issue for a number of colleagues across the House, as a result of their own experiences. Eating disorders cause huge distress for individuals, their families and loved ones, but with care and the right treatment, it is possible for people to recover and to go back to leading a full and fulfilling life.
+The hon. Lady is absolutely right on the matter of eating disorders, but my understanding of the amendment is that it relates to those who effectively starve themselves into a position of becoming terminally ill without having an eating disorder—that is the thrust of the amendment. Does she see that, and how does she intend to respond to it?
+The hon. Gentleman makes an important point. The amendment is not specifically about eating disorders; there is a broader context. I will come to that later.
+It is with that experience in mind—my own personal experience and having spoken to many colleagues on this issue—that I say now, as I said in Committee, that under the Bill as it stands, having anorexia would not qualify a person to be eligible for an assisted death. The Bill is clear that a person cannot be considered terminally ill on the basis only of a mental disorder. Clause 2 makes it clear that a person must have an inevitably progressive illness or disease that cannot be reversed by treatment. Anorexia is a serious mental health condition that is not inevitably progressive and can, thankfully, be reversed by treatment. Of course, at every stage of the assisted dying process the patient must be found to have capacity to make the decision, and this is checked repeatedly throughout the process. Someone with severe anorexia would be highly unlikely to be assessed to have capacity to make a decision on assisted dying.
+The other tragic reality is that if a patient was so ill as a result of not eating and drinking for whatever reason, they would die before the process of assisted dying was able to take place, as it could take up to two months to complete all the stages of the process as set out in the Bill, and the latest clinical guidance states that the general range of survival once voluntary stopping of eating and drinking has begun is between seven and 21 days. Stopping eating and drinking also leads to a range of symptoms that would make meaningful conversations, as required by the Bill, impossible.
+Having said that, I know that some people have expressed concerns that the severe physical consequences of a decision to stop eating or drinking could still enable someone to claim eligibility for assisted dying when they would not otherwise be able to do so, and I believe that is the motivation behind amendment 14.
+rose—
+I will take one final intervention.
+The hon. Lady is very kind. At the moment, she is outlining the case for those who have problems with their eating and their diets almost to the point where they are unable to make their own decisions, and she is outlining what is going to happen here. What would she say about the situation in Belgium and in Canada, where assisted dying has been legalised for people with eating disorders? This may progress from what she has said and go way beyond that, as has been proven in other countries across the world.
+I thank the hon. Gentleman for that point. The eligibility criteria in this Bill are very different from those in the jurisdictions he mentions—people with mental health conditions are not eligible for assisted dying under the provisions of this Bill.
+Will my hon. Friend give way?
+I will just finish this point, because it is very important.
+I acknowledge the concerns that colleagues have expressed around this issue, and I believe they are the motivation behind amendment 14. As I have set out, I think that risk is negligible. I have taken advice, and there is some concern that clinicians might have difficulty assessing with certainty that the decision to stop eating and eating was the only reason for a person’s terminal prognosis; as such, some further drafting changes may be required in the other place if this amendment should pass. With that in mind, however, and to ensure there is no sort of loophole, no matter how small the reality is of there being one, I am happy to support this amendment today.
+rose—
+I am going to leave it there for now, if I may.
+I am conscious that many colleagues wish to speak in this important debate, and I am keen to hear their contributions, so I will conclude my remarks there. I thank colleagues for listening, and I hope they are able to support the amendments in my name today in the interests of strengthening the workability of the Bill and providing greater flexibility and safeguards for patients and professionals.
+It is a privilege to speak in this place on such an important Bill. Having been part of the Committee that scrutinised it line by line, and, on some occasions, word by word, for several months earlier this year, it is a pleasure to see so many of my colleagues from Committee Room 10 present today—a reunion of sorts. I am here, as always, with the intention of improving the Bill, so that if it does indeed pass, vulnerable people are as protected as they can possibly be from unintended consequences.
+It is important to remember that on Report and Third Reading we are not voting on whether we agree with the principle of assisting someone to end their own life. Our role is to vote on the law in front of us—on whether the words on the page are clear and do what is intended, on whether the statutory process is safe, and ultimately on whether the provision of assisted dying benefits our community.
+I am not against assisted dying in principle, but I am against this Bill. I am happy to put it on the record now that I have no personal religious beliefs; I am against the Bill for the simple reason that it will harm far more people than it will help. The people who will be harmed are the most vulnerable in our communities, and I am not willing to accept that collateral damage.
+Today is important, because we have the opportunity to improve the safeguards in the Bill so that some of those groups are better protected. I urge Members to take that opportunity to the full. It requires very little skill to draft law that works for 90% of cases, but there is much skill in ensuring that the other 10% is catered for as well. I urge everyone to set the highest standards today and think about how we can ensure that those unordinary and unexpected cases are adequately protected, too. It really is life and death, so please do not accept anything that is not good enough.
+Does the hon. Member agree that one of the greatest risks in this Bill is around coercion? It is not just about coercion   from family members or friends, but about societal coercion and circumstances. The current state of palliative care in our country is among the worst in the developed world. Without adequate palliative care, patients might feel pressure to go down the assisted dying route instead.
+I wholeheartedly agree.
+There is much to discuss today and there is little time, so I will start at the beginning of the Bill, at the point at which the criteria for eligibility for an assisted death are set. It is there that important safeguards are needed to ensure that those who should never be eligible are excluded. We should not make the mistake of assuming that a doctor will always make the right decision or that they are infallible. It is incumbent on us to put in place law that makes it harder for them to get it wrong—that makes it harder for someone vulnerable to fall between the cracks.
+The hon. Lady has just agreed with a point made by  the hon. Member for Dewsbury and Batley (Iqbal Mohamed) . Exactly the same point was made when this House voted against the Assisted Dying (No. 2) Bill back in 2015. Would she say that in the nine years after the House voted against the Bill, we saw a golden age in palliative care as a result, or does she think that if we wait for palliative care to be perfect we might never vote in favour of assisted dying?
+The evidence is clear that palliative care does not get better when assisted dying is introduced; we heard that in the Bill Committee. We should absolutely look to address palliative care, because that will benefit more people. I will come to that point later in my speech, so I will not discuss it any further now. I do not want to get ahead of myself.
+There are many helpful amendments in this vein—namely, new clause 16, new clause 9 and amendments 80, 14, 38, 81, 24, 30 and 31. In simple terms, they seek to tighten and refine the eligibility criteria for an assisted death by setting out when and for what reasons an assisted death should be allowed, and by ensuring that those who are vulnerable are protected from something that may not be in their best interests.
+Interestingly, on Second Reading the argument put forward for assisted death was that those who are dying should be spared unbearable pain. This is an argument that everyone understands and has full sympathy with. No one in this place wants people to endure pain as they come to the end of their life; I certainly would not want that for my loved ones or indeed for myself when my time comes.
+But then the arguments being put forward changed. There was less emphasis on pain, and more on choice and autonomy. The word “autonomy” came up again and again in Committee—and autonomy is important, of course, but up to a point. From a proposal to provide a humane end to someone’s pain when it cannot be relieved in the last months of their life, we have moved to a proposal to provide an assisted death service to those who choose it for any reason, even if the pain can be alleviated by palliative care. This approach, however, comes with a cost to others: family, clinicians and broader society. This really is momentous. There is no going back from such a massive shift. A move to autonomy trumping everything else changes everything.
+That is why new clause 16, tabled by my hon. Friend, is so important. In other jurisdictions that have passed such laws, up to a third of people report that they have taken this step because they feel they are a burden on others. That is the truth of it—it is not always about pain—and that is the kind of autonomy that leads to disaster.
+I thank my right hon. Friend for making that point; he is absolutely right.
+I have tabled amendment 80, which would bring the Bill back to its original intentions. It would require that in order to be eligible for an assisted death, the pain and discomfort experienced or expected from a person’s terminal illness could not be reasonably relieved to their satisfaction through palliative care. It seeks to limit assisted death to the very small group of people who may benefit from it, not the larger group who just need adequate palliative care to give them the comfortable, dignified death they deserve.
+The hon. Member’s amendment speaks of “severe pain and discomfort”, but there is a reason why the medical profession has not gone for that. How does she propose we assess severe pain and discomfort as opposed to medium pain? Is a fungating wound part of severe pain and discomfort?
+The key point is that we need to improve palliative care. We are spending so much time and effort focusing on this Bill rather than doing the thing that would actually help more people. My amendment 80, in combination with amendments 30 and 31 tabled by my hon. Friend  the Member for Runnymede and Weybridge (Dr Spencer) , would drive significant improvements to palliative and end-of-life care, getting us closer to consistent and universally available care  for all.
+I support the hon. Lady’s amendment. As the Royal College of Psychiatrists pointed out, pain from unresolved physical symptoms and the fear of physical pain or death can make a person want to die, and depression, which is also associated with a wish to die, is often missed. Does she agree that it is vital that people are supported to be free from pain by having access to good palliative and end-of-life care, and that the Bill’s provisions should be available only to those whom that cannot help?
+I completely concur.
+I commend the hon. Lady for tabling her amendments. Amendments that would have protected palliative care and hospices from facilitating assisted suicide services on their premises for ethical or practical reasons have been rejected, so the Bill leaves hospices with little choice but to comply. It also puts them in a difficult position when it comes to funding. Hospices will also have to provide a staff member to do this work. The problems that will create for palliative care and hospices cannot be ignored. The Bill goes against that right in its totality.
+I agree, and I will come to that point in more detail in the second half of my speech.
+With regard to these amendments, we are so blessed to have our precious NHS. At vital stages, the NHS quite rightly delivers care in obstetrics, gynaecology, neonatology and paediatrics, but at the end of life about 70% of care is delivered outside the NHS, largely by charities, and that figure is even higher for children’s palliative and hospice care—so the state pays for how we enter this life, but not for how we depart it. There is something deeply wrong about that for our society. Does my hon. Friend agree that surely we must address that, and  the delivery of universal palliative and hospice care, before we go anywhere near the measures in this assisted dying Bill?
+My hon. Friend makes a good point, and I agree. In the interests of time, I will make some progress.
+The current situation, whereby fully funded palliative and end-of-life care is not available in certain postcodes, means that those unfortunate patients do not have a real choice. We know that 25% of people who die in this country do not get the palliative care they need—that is more than 100,000 people a year—and if the Bill goes through, they will be offered a fully funded assisted death as the only reliable way to end their pain. That is no choice. I urge Members who want to see improvements in palliative and end-of-life care to vote for my amendment 80, and for amendments 30 and 31, tabled by my hon. Friend the Member for Runnymede and Weybridge, if they are pushed to a vote.
+Will my hon. Friend give way?
+I will not because I do not have much time.
+I will move on to the lack of a best interests test in the Bill, which my new clause 16 seeks to remedy. Patient autonomy is of course important, but it must be balanced against what is in someone’s best interests. In certain situations, when it is in their best interests, treatment can be given against a patient’s will—for example, force-feeding a young girl with anorexia. It is not an easy balance to get right, but in the absence of any best interests test in the Bill, following the process rigidly would lead to devastating results in some cases.
+The Bill currently prioritises autonomy of the patient in a specific moment of time, rather than what might be in their best interests in the long run. It makes no allowance for the fact that someone may feel a certain way temporarily due to other considerations. For example, when someone has just received a terminal diagnosis, it can understandably cause a depressive state and suicidal feelings, but those feelings do not necessarily last, so it may be in the best interests of the patient to allow a little time to pass, to give them a little breathing space before considering the assisted death route.
+New clause 16 essentially tries to provide a best interests test by excluding certain reasons, other than the alleviation of pain, that might be driving a patient’s decision. For example, we have heard a great deal about the internal pressure from patients themselves that is   driven by their concern not to be a burden, and we heard clearly in Committee that a patient could tell a doctor that they are want an assisted death only for financial reasons, and that would still be approved. We know from the experience of overseas territories that patients will often opt for an assisted death because of social and welfare issues, such as being homeless.
+Will the hon. Lady give way?
+I am sorry, but I do not have much time and I wish to get through my points.
+How can we be happy with a process that does not exclude such reasons? Instead of providing the support that is actually needed, the state is content to put them on a pathway that leads to their death. I hope that the House will recognise that, whether one supports assisted dying in principle or not, it is morally bankrupt not to have some kind of best interests test to protect those who are not seeking death to alleviate pain from a terminal illness.
+Another group that is particularly vulnerable is those with eating disorders. In Chelsea Roff’s oral evidence, she set out that
+“at least 60 people around the world have been euthanised or assisted in suicide”
+with
+“anorexia nervosa listed by name as a terminal condition.”––[Official Report, Terminally Ill Adults (End of Life) Public Bill Committee,  29 January 2025 ; c. 139, Q175.]
+To paraphrase her, these were young women who were not terminally ill and had decades of life ahead of them. It is important to make the point that someone suffering—
+rose—
+rose—
+I would love to give way, but—
+Order. The hon. Lady has said that she is not going to give way. We are aiming for 15 minutes for each speech, but it is going to be 20 minutes if we do not pick up the pace.
+I apologise, but I do want to get through my speech.
+It is important to make the point that someone suffering with anorexia, or indeed any mental condition, is not intended to be eligible for an assisted death. However, in the case of anorexia there are physical manifestations of the illness, such as malnutrition and diabetes, that might mean the patient meets the definition of being terminally ill, and that is the nub of the problem: the Bill does not adequately rule out physical manifestations caused by mental illness. That is why amendment 14, tabled by  the hon. Member for Bradford West (Naz Shah) , is so important, because it would ensure that anyone who voluntarily stops eating or drinking is ineligible for assisted dying. I support the amendment strongly as it addresses a big risk.
+Lastly, on eligibility specifically, I want to talk about capacity. There are such problems with the current approach to determining capacity that I barely know where to start. When it comes to ending one’s own life, a higher standard should be applied. The current definition of capacity was not created with such a monumental decision in mind, and if it were being drafted from scratch today, it would look very different. That is one of the reasons why the Royal College of Psychiatrists does not support the Bill.
+Under the Bill, a person is assumed to have capacity in the first instance. A clinician only needs to be over 50% sure that a person has capacity. If the person is making unwise decisions, that is not taken into account, and a person can be “helped” to make a decision—for example, when a patient has learning disabilities. I ask all Members today whether they are happy with that. Does that sound like a robust approach to assessing whether someone has capacity to make the decision to end their own life?
+Let us begin with the starting presumption of capacity. That, too, lacks the standard for assisted death decisions. I therefore support amendment 24, tabled by  the hon. Member for Bexleyheath and Crayford (Daniel Francis) , which would disapply section 1(2) of the Mental Capacity Act 2005 for the purposes of assisted dying. One of the biggest issues for me is the fact that the current approach requires an impairment or disturbance of the brain in order for someone to be considered not to have capacity, irrespective of whether they can make a decision. In the real world, that would mean a doctor could assess a patient who gives the impression of being confused, illogical, erratic, inconsistent—everything about them could scream that they are not in a good place to make this decision at that point in time—but they would still be considered to have capacity if there is no identifiable impairment or disturbance of their mind or brain. That could potentially put those with depression, anxiety, learning disabilities or eating disorders, or even those just experiencing physical pain that is driving them to distraction, in danger of being considered to have capacity when they do not.
+So far I have focused on eligibility. I will now talk about hospices.
+Order. Please, I really want to get as many people in as possible. If you can come to a conclusion, that would be helpful.
+I will therefore speak to my new clauses 17 and 18, which would provide important protections for hospices, which are currently lacking in the Bill. New clause 18 makes it crystal clear that any regulated care home or hospice can decide whether to provide assisted dying on its premises, and new clause 17 makes it clear that they cannot be subject to any detriment for not providing or permitting assisted deaths, and that their public funding cannot be conditional on their providing this service. Whether one is in favour of assisted dying or not, we must preserve the rights of organisations, companies and charities to choose whether to offer it. They must never be forced into it by public funding being conditional on the provision of assisted dying.
+I note that new clause 10, tabled by  the hon. Member for Spen Valley (Kim Leadbeater) , would expand the protection for individuals not to participate in the assisted  dying process if they so wish. It seeks to protect employees from being subjected to any detriment for participating or not participating in the provision of assisted dying. This sensible protection would ensure that if an NHS hospital provides an assisted death service, any member of staff who does not want to participate would not have to do so and would suffer no detriment as a result. However, there needs to be a sensible mechanism balancing that against the employer’s right to set their own policy on assisted dying, and that is what my amendment (a) to new clause 10 seeks to do—we have already talked about that, so I will not go over it again.
+I did want to talk about process and family, but it looks like I will not have time to do that. I will end there. I thank you for your patience and generosity, Mr Speaker. I am grateful that I have had the chance to speak in support of the amendments, and I look forward to hearing from other Members.
+I rise to speak to new clauses 1 and 2, which stand in my name, and consequential amendment 2, and I will touch on others at the end. These amendments—without being dismissive of those who helped me draft them—are imperfect. Those of us who are not the promoter of the Bill have not had the support of Government drafters in tidying up the Bill. We need to acknowledge that the Bill in front of us today is the Bill—more or less—that will or will not be passed by this House. For any amendments made, by the point of Third Reading, that is it—there will be no further opportunity to redraft them.
+Sadly, one of these amendments was rejected in Committee. If those changes had been discussed before the original Bill was published, or even in evidence before Committee, we would have been in a better place to get that tighter drafting that is needed in making good legislation. We are not a debating society; we are now legislating for a law that would enable the state to assist in people taking their lives. I am sad that we are able to discuss these amendments only now. I did not get the opportunity to be on the Bill Committee, but I commend all Members who spend so many hours discussing and debating those issues.
+The ramifications of the clauses I want to talk about are important for potential users of a service, for medical professionals, for families and for other health professionals. The Bill currently allows doctors to suggest assisted dying to a patient who has not raised it themselves. This, I believe—as I know many others do—presents a serious risk that terminally ill patients, already highly vulnerable, will feel pressured to end their lives.
+I realise that my hon. Friend’s new clause 1 comes from a good place, but can she not see that it is inconsistent with our ethical obligations as doctors? That is why the British Medical Association has suggested that although there should be no duty to raise the issue, neither should there be a ban on doing so. I ask her to consider that the Australian state of Victoria initially had such a measure—a so-called gagging clause—as part of its Bill, but it was removed because it caused confusion and was detrimental to patient care. Should we not learn from that?
+I thank my hon. Friend for his point, which brings me to something I really want to address. As I said in my opening remarks, these are imperfect amendments. I will get into some of the conversations that I have had with a number of people about this. I am one person; I have not been able to consult the BMA, as a Government or a sponsor could, for example, but I am aware of its concerns. However, we are talking here about very definite and irreversible decisions on life and death. I know that many doctors have had conversations about that, but not to the level required to legislate for it. This is a different set of circumstances, but I very much appreciate his point.
+Does my hon. Friend agree that far too many people do not have confidence in the face of authority, and that if a doctor raises assisted suicide with them—no matter how tactfully or professionally—they will feel that they are being steered in that direction?
+I thank my right hon. Friend for that intervention. Given her many years as a constituency MP in the same borough as me, we both know many such vulnerable people. Dr Rachel Clarke, a hospital palliative care doctor, said:
+‘If, for instance, you say to a vulnerable patient who has just been told they have a diagnosis of terminal cancer, “Have you thought about assisted dying?”, I would suggest that stating it broadly like that is a form of pressure and that you are potentially unintentionally coercing that patient.’––[Official Report, Terminally Ill Adults (End of Life) Public Bill Committee,  28 January 2025 ; c. 75, Q93.]
+So we are in a very difficult space, as my hon. Friend  the Member for Stroud (Dr Opher)  highlighted, with his background as a practising GP. We recognise that. As I have said, this is an imperfect process to deal with that challenge, but it is a very different set of circumstances compared with the other advice that doctors give.
+rose—
+Speaking of doctors, I give way to the hon. Lady.
+I rise to support the hon. Lady’s new clause 1. As a doctor, I am very aware of the trust that the public place in doctors and the seriousness with which they take what we say. If a doctor gives somebody information about assisted dying, it is quite reasonable for that person to think that the doctor is suggesting that they should take part in that process, or is hinting that their death will be dreadful and trying to be kind. If doctors are allowed to say, “This is a good process,” more people will take it up than would otherwise have wanted to.
+I thank the hon. Lady.
+Will the hon. Lady give way?
+I need to get into the arguments for my two new clauses, so I will not take any more interventions for the time being.
