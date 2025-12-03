@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 159
-Section: Extensions of Remarks Section
-Date: 2025-09-29
-Volume: 171, Issue: 159
-Pages: E909 - E909
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E909]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,11 +11,8 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, September 30, 2025 may be found in 
-the Daily Digest of today&#x27;s Record.
+the Daily Digest of todays Record.
 
-                           MEETINGS SCHEDULED
-
-                               OCTOBER 1
      10 a.m.
        Committee on Finance
          To hold hearings to examine the taxation of digital 
@@ -92,9 +69,6 @@ the Daily Digest of today&#x27;s Record.
            term of four years.
                                                             SD-106
 
-                             POSTPONEMENTS
-
-                               OCTOBER 1
      10 a.m.
        Committee on Energy and Natural Resources
        Subcommittee on Public Lands, Forests, and Mining
@@ -111,7 +85,7 @@ the Daily Digest of today&#x27;s Record.
            of Colorado, S. 790, to redesignate the National 
            Historic Trails Interpretive Center in Casper, Wyoming, 
            as the ``Barbara L. Cubin National Historic Trails 
-           Interpretive Center&#x27;&#x27;, S. 888, to designate certain 
+           Interpretive Center, S. 888, to designate certain 
            land administered by the Bureau of Land Management and 
            the Forest Service in the State of Oregon as wilderness 
            and national recreation areas, to withdraw certain land 
@@ -181,9 +155,3 @@ the Daily Digest of today&#x27;s Record.
            bearing the flag of the United States at Kyhv Peak 
            Lookout Point, Utah.
                                                             SD-366
-
-
-
-</pre>
-
-

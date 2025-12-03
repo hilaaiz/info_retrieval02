@@ -1,26 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 161
-Section: Extensions of Remarks Section
-Date: 2025-10-01
-Volume: 171, Issue: 161
-Pages: E921 - E921
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E921]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-[[Page E921]]
-
-
-  
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -33,11 +11,8 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Thursday, October 2, 2025 may be found in the 
-Daily Digest of today&#x27;s Record.
+Daily Digest of todays Record.
 
-                           MEETINGS SCHEDULED
-
-                               OCTOBER 7
      9 a.m.
        Committee on the Judiciary
          To hold oversight hearings to examine the Department of 
@@ -67,8 +42,8 @@ Daily Digest of today&#x27;s Record.
        Committee on Foreign Relations
        Subcommittee on East Asia, the Pacific, and International 
            Cybersecurity Policy
-         To hold hearings to examine combatting the People&#x27;s 
-           Republic of China&#x27;s behavior in the Indo-Pacific.
+         To hold hearings to examine combatting the Peoples 
+           Republic of Chinas behavior in the Indo-Pacific.
                                                             SD-419
      3 p.m.
        Select Committee on Intelligence
@@ -76,7 +51,6 @@ Daily Digest of today&#x27;s Record.
            matters.
                                                             SH-219
 
-                               OCTOBER 8
      10 a.m.
        Committee on Commerce, Science, and Transportation
          To hold hearings to examine big tech and silencing 
@@ -120,7 +94,6 @@ Daily Digest of today&#x27;s Record.
            American patients.
                                                             SH-216
 
-                               OCTOBER 9
      9:30 a.m.
        Committee on Armed Services
          To hold hearings to examine the nomination of General 
@@ -128,9 +101,3 @@ Daily Digest of today&#x27;s Record.
            grade of general and to be Chief of Staff of the Air 
            Force.
                                                             SD-G50
-
-
-
-</pre>
-
-
