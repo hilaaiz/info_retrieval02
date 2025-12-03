@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 118
-Section: Extensions of Remarks Section
-Date: 2025-07-09
-Volume: 171, Issue: 118
-Pages: E647 - E647
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E647]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,9 +11,7 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Thursday, July 10, 2025 may be found in the 
-Daily Digest of today&#x27;s Record.
-
-                           MEETINGS SCHEDULED
+Daily Digest of todays Record.
 
                                 JULY 15
      10 a.m.
@@ -85,7 +63,7 @@ Daily Digest of today&#x27;s Record.
        Committee on Environment and Public Works
          To hold hearings to examine constructing the surface 
            transportation reauthorization bill, focusing on 
-           stakeholders&#x27; perspectives.
+           stakeholders perspectives.
                                                             SD-562
        Committee on Foreign Relations
          To hold hearings to examine reforming the State 
@@ -108,7 +86,7 @@ Daily Digest of today&#x27;s Record.
                                                             SD-628
        Committee on the Judiciary
        Subcommittee on Crime and Counterterrorism
-         To hold hearings to examine the AI industry&#x27;s mass 
+         To hold hearings to examine the AI industrys mass 
            ingestion of copyrighted works for AI training.
                                                             SD-226
        Committee on Small Business and Entrepreneurship
@@ -116,19 +94,17 @@ Daily Digest of today&#x27;s Record.
            limits for loans made to small manufacturers, S. 1199, 
            to extend the statute of limitations for fraud under 
            certain pandemic programs, and an original bill 
-           entitled, ``Expanding the Surety Bond Program Act&#x27;&#x27;.
+           entitled, ``Expanding the Surety Bond Program Act.
                                                            SR-428A
      3:30 p.m.
        Special Committee on Aging
          To hold hearings to examine aging with purpose, focusing 
-           on the positive impact of seniors in today&#x27;s economy.
+           on the positive impact of seniors in todays economy.
                                                             SD-106
      4 p.m.
-       Committee on Veterans&#x27; Affairs
+       Committee on Veterans Affairs
          To hold hearings to examine certain pending nominations.
                                                             SR-418
-
-                             CANCELLATIONS
 
                                 JULY 11
      9 a.m.
@@ -137,9 +113,3 @@ Daily Digest of today&#x27;s Record.
            proposed National Defense Authorization Act for fiscal 
            year 2026.
                                                             SR-222
-
-
-
-</pre>
-
-

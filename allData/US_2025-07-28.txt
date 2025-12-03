@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 129
-Section: Extensions of Remarks Section
-Date: 2025-07-28
-Volume: 171, Issue: 129
-Pages: E733 - E734
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Pages E733-E734]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,9 +11,7 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, July 29, 2025 may be found in the 
-Daily Digest of today&#x27;s Record.
-
-                           MEETINGS SCHEDULED
+Daily Digest of todays Record.
 
                                 JULY 30
      9:30 a.m.
@@ -51,7 +29,7 @@ Daily Digest of today&#x27;s Record.
        Committee on Banking, Housing, and Urban Affairs
        Subcommittee on Securities, Insurance, and Investment
          To hold hearings to examine guardrails and growth, 
-           focusing on AI&#x27;s role in capital and insurance markets.
+           focusing on AIs role in capital and insurance markets.
                                                             SD-538
        Committee on Commerce, Science, and Transportation
          Business meeting to consider S. 1691, to limit the use of 
@@ -166,7 +144,7 @@ Daily Digest of today&#x27;s Record.
            of Homeland Security, Christopher Fox, of Virginia, to 
            be Inspector General of the Intelligence Community, 
            Office of the Director of National Intelligence, and 
-           Edward Aloysius O&#x27;Connell, of the District of Columbia, 
+           Edward Aloysius OConnell, of the District of Columbia, 
            to be an Associate Judge of the Superior Court of the 
            District of Columbia for the term of fifteen years.
                                                             SD-342
@@ -180,13 +158,11 @@ Daily Digest of today&#x27;s Record.
            reorganization proposal.
                                                            SR-328A
 
-[[Page E734]]
-
      2 p.m.
        Committee on Homeland Security and Governmental Affairs
        Subcommittee on Border Management, Federal Workforce, and 
            Regulatory Affairs
-         To hold hearings to examine Congress&#x27;s role in the 
+         To hold hearings to examine Congresss role in the 
            regulatory landscape.
                                                             SD-342
      2:30 p.m.
@@ -198,7 +174,7 @@ Daily Digest of today&#x27;s Record.
        Committee on the Judiciary
        Subcommittee on Privacy, Technology, and the Law
          To hold hearings to examine protecting and safeguarding 
-           Americans&#x27; online data.
+           Americans online data.
                                                             SD-226
      3 p.m.
        Select Committee on Intelligence
@@ -211,7 +187,7 @@ Daily Digest of today&#x27;s Record.
            on combating elder abuse and neglect.
                                                             SD-106
      4 p.m.
-       Committee on Veterans&#x27; Affairs
+       Committee on Veterans Affairs
          Business meeting to consider S. 275, to improve the 
            provision of care and services under the Veterans 
            Community Care Program of the Department of Veterans 
@@ -273,7 +249,7 @@ Daily Digest of today&#x27;s Record.
            1320, to direct the Secretary of Defense and the 
            Secretary of Veterans Affairs to take certain steps 
            regarding research related to menopause, perimenopause, 
-           or mid-life women&#x27;s health, S. 1383, to establish the 
+           or mid-life womens health, S. 1383, to establish the 
            Veterans Advisory Committee on Equal Access, S. 1441, 
            to require the Secretary of Veterans Affairs to award 
            grants to nonprofit entities to assist such entities in 
@@ -310,10 +286,10 @@ Daily Digest of today&#x27;s Record.
      9:30 a.m.
        Committee on Appropriations
          Business meeting to markup an original bill entitled, 
-           ``Department of Defense Appropriations Act, 2026&#x27;&#x27;, and 
+           ``Department of Defense Appropriations Act, 2026, and 
            an original bill entitled, ``Departments of Labor, 
            Health and Human Services, Education, and Related 
-           Agencies Appropriations Act, 2026&#x27;&#x27;.
+           Agencies Appropriations Act, 2026.
                                                             SD-106
      9:45 a.m.
        Committee on Finance
@@ -350,9 +326,3 @@ Daily Digest of today&#x27;s Record.
            of the Virgin Islands for the term of four years, both 
            of the Department of Justice.
                                                             SH-216
-
-
-
-</pre>
-
-

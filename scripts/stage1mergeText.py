@@ -1,6 +1,11 @@
 import os
 import shutil
 
+import re
+
+import html
+
+
 # תיקיית הסקריפט (scripts/)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -16,6 +21,66 @@ output_folder = os.path.join(ROOT_DIR, "allData")
 
 # יצירת התיקייה המאוחדת
 os.makedirs(output_folder, exist_ok=True)
+
+def clean_congressional_text(raw_text):
+
+    """
+
+    Cleans US Congressional Record file.
+
+    Keeps only the speech text inside <pre> ... </pre>.
+
+    Removes HTML, entities, and normalizes punctuation spacing.
+
+    """
+
+
+
+    # --- 1. Extract only the <pre>...</pre> content ---
+
+    pre_match = re.search(r"<pre>(.*?)</pre>", raw_text, flags=re.DOTALL | re.IGNORECASE)
+
+    if pre_match:
+
+        text = pre_match.group(1)
+
+    else:
+
+        # If no <pre> block exists, fallback to full text
+
+        text = raw_text
+
+
+
+    # --- 2. Remove all HTML tags (<a>, <br>, etc.) ---
+
+    text = re.sub(r"<.*?>", " ", text)
+
+
+
+    # --- 3. Convert HTML entities: &#x27; → ', &amp; → &, etc. ---
+
+    text = html.unescape(text)
+
+
+
+    # --- 4. Separate punctuation from words ---
+
+    # Add spaces around ANY non-alphanumeric char
+
+    text = re.sub(r'([^A-Za-z0-9])', r' \1 ', text)
+
+
+
+    # --- 5. Normalize multiple spaces ---
+
+    text = re.sub(r'\s+', ' ', text)
+
+
+
+    # Do NOT strip — to stay consistent with your earlier cleaning rules
+
+    return text
 
 def copy_and_rename(src_folder, prefix):
     print(f"Scanning: {src_folder}")

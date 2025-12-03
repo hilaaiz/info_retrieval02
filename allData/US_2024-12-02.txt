@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 170, No. 177
-Section: Extensions of Remarks Section
-Date: 2024-12-02
-Volume: 170, Issue: 177
-Pages: E1201 - E1201
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E1201]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,11 +11,8 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, December 3, 2024 may be found in the 
-Daily Digest of today&#x27;s Record.
+Daily Digest of todays Record.
 
-                           MEETINGS SCHEDULED
-
-                               DECEMBER 4
      10 a.m.
        Committee on Homeland Security and Governmental Affairs
        Permanent Subcommittee on Investigations
@@ -43,7 +20,6 @@ Daily Digest of today&#x27;s Record.
            fees.
                                                             SD-342
 
-                               DECEMBER 5
      9:30 a.m.
        Committee on Environment and Public Works
        Subcommittee on Chemical Safety, Waste Management, 
@@ -85,11 +61,5 @@ Daily Digest of today&#x27;s Record.
      2:30 p.m.
        Commission on Security and Cooperation in Europe
          To hold hearings to examine the role of Belarus in 
-           Russia&#x27;s crimes.
+           Russias crimes.
                                                          2118-RHOB
-
-
-
-</pre>
-
-

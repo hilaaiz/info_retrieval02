@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 170, No. 102
-Section: Extensions of Remarks Section
-Date: 2024-06-17
-Volume: 170, Issue: 102
-Pages: E641 - E641
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E641]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,9 +11,7 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, June 18, 2024 may be found in the 
-Daily Digest of today&#x27;s Record.
-
-                           MEETINGS SCHEDULED
+Daily Digest of todays Record.
 
                                 JUNE 20
      9 a.m.
@@ -68,12 +46,6 @@ Daily Digest of today&#x27;s Record.
      10 a.m.
        Committee on Environment and Public Works
        Subcommittee on Transportation and Infrastructure
-         To hold an oversight hearing to examine the GSA&#x27;s Public 
+         To hold an oversight hearing to examine the GSAs Public 
            Buildings Service.
                                                             SD-406
-
-
-
-</pre>
-
-

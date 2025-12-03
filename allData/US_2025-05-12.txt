@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 79
-Section: Extensions of Remarks Section
-Date: 2025-05-12
-Volume: 171, Issue: 79
-Pages: E411 - E412
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Pages E411-E412]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,9 +11,7 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, May 13, 2025 may be found in the 
-Daily Digest of today&#x27;s Record.
-
-                           MEETINGS SCHEDULED
+Daily Digest of todays Record.
 
                                  MAY 14
      9:30 a.m.
@@ -90,7 +68,7 @@ Daily Digest of today&#x27;s Record.
                                                             SD-562
      1:30 p.m.
        Committee on Health, Education, Labor, and Pensions
-         To hold hearings to examine the President&#x27;s proposed 
+         To hold hearings to examine the Presidents proposed 
            budget request for fiscal year 2026 for the Department 
            of Health and Human Services.
                                                             SD-430
@@ -101,7 +79,7 @@ Daily Digest of today&#x27;s Record.
            innovation and economic leadership.
                                                             SD-226
        Committee on Small Business and Entrepreneurship
-         To hold hearings to examine financing America&#x27;s 
+         To hold hearings to examine financing Americas 
            manufacturing and industrial boom.
                                                            SR-428A
        Select Committee on Intelligence
@@ -172,7 +150,7 @@ Daily Digest of today&#x27;s Record.
            reauthorize the PROTECT Our Children Act of 2008, S. 
            911, to amend the Omnibus Crime Control and Safe 
            Streets Act of 1968 to include certain retired law 
-           enforcement officers in the public safety officers&#x27; 
+           enforcement officers in the public safety officers 
            death benefits program, S. 1316, to amend the Omnibus 
            Crime Control and Safe Streets Act of 1968 to provide 
            that COPS grant funds may be used for local law 
@@ -190,8 +168,6 @@ Daily Digest of today&#x27;s Record.
            Florida for the term of four years.
                                                             SH-216
 
-[[Page E412]]
-
      10:30 a.m.
        Committee on Foreign Relations
          Business meeting to consider pending calendar business; 
@@ -202,19 +178,13 @@ Daily Digest of today&#x27;s Record.
                                  MAY 20
      9:30 a.m.
        Committee on Homeland Security and Governmental Affairs
-         To hold hearings to examine the President&#x27;s proposed 
+         To hold hearings to examine the Presidents proposed 
            budget request for fiscal year 2026 for the Department 
            of Homeland Security.
                                                             SD-342
      10 a.m.
        Committee on Foreign Relations
-         To hold hearings to examine the President&#x27;s proposed 
+         To hold hearings to examine the Presidents proposed 
            budget request for fiscal year 2026 for the Department 
            of State.
                                                             SD-419
-
-
-
-</pre>
-
-

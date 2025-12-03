@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 171, No. 178
-Section: Extensions of Remarks Section
-Date: 2025-10-27
-Volume: 171, Issue: 178
-Pages: E1005 - E1005
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Page E1005]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,11 +11,8 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, October 28, 2025 may be found in the 
-Daily Digest of today&#x27;s Record.
+Daily Digest of todays Record.
 
-                           MEETINGS SCHEDULED
-
-                               OCTOBER 29
      9:30 a.m.
        Committee on Energy and Natural Resources
          To hold hearings to examine the Section 106 consultation 
@@ -49,7 +26,7 @@ Daily Digest of today&#x27;s Record.
        Committee on Environment and Public Works
          Business meeting to consider S. 2082, to amend the Atomic 
            Energy Act of 1954 to modify the definition of 
-           ``production facility&#x27;&#x27; to exclude an equipment or 
+           ``production facility to exclude an equipment or 
            device capable of reprocessing spent nuclear fuel in a 
            manner that does not separate plutonium from other 
            transuranic elements, S. 2235, to amend the Energy 
@@ -65,10 +42,10 @@ Daily Digest of today&#x27;s Record.
            monitor, assess, and research the Great Lakes Basin, S. 
            287, to designate the Federal building located at 225 
            South Pierre Street in Pierre, South Dakota, as the 
-           ``Marcella LeBeau Federal Building,&#x27;&#x27; and for other 
+           ``Marcella LeBeau Federal Building, and for other 
            purposes, S. 2319, to designate the Federal building 
            located at 300 West Congress Street in Tucson, Arizona, 
-           as the ``Raul M. Grijalva Federal Building&#x27;&#x27;, and the 
+           as the ``Raul M. Grijalva Federal Building, and the 
            nominations of Jeffrey Hall, of Virginia, to be an 
            Assistant Administrator, and Douglas Troutman, of 
            Maryland, to be Assistant Administrator for Toxic 
@@ -117,12 +94,11 @@ Daily Digest of today&#x27;s Record.
            Agriculture.
                                                             SD-106
      4 p.m.
-       Committee on Veterans&#x27; Affairs
+       Committee on Veterans Affairs
          To hold hearings to examine putting veterans first, 
            focusing on the current VA disability system.
                                                             SD-G50
 
-                               OCTOBER 30
      9:30 a.m.
        Committee on Armed Services
          To hold hearings to examine the nomination of Vice 
@@ -173,9 +149,3 @@ Daily Digest of today&#x27;s Record.
          To hold hearings to examine S. 107, to amend the Lumbee 
            Act of 1956.
                                                             SD-628
-
-
-
-</pre>
-
-

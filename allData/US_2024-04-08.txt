@@ -1,24 +1,4 @@
-﻿Title: SENATE COMMITTEE MEETINGS; Congressional Record Vol. 170, No. 59
-Section: Extensions of Remarks Section
-Date: 2024-04-08
-Volume: 170, Issue: 59
-Pages: E307 - E308
-================================================================================
-
-<pre>
-
-
-[Extensions of Remarks]
-[Pages E307-E308]
-From the Congressional Record Online through the Government Publishing Office [<a href='https://www.gpo.gov'>www.gpo.gov</a>]
-
-
-
-
-
-                       SENATE COMMITTEE MEETINGS
-
-  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+Title IV of Senate Resolution 4, agreed to by the Senate of February 
 4, 1977, calls for establishment of a system for a computerized 
 schedule of all meetings and hearings of Senate committees, 
 subcommittees, joint committees, and committees of conference. This 
@@ -31,9 +11,7 @@ information, the Office of the Senate Daily Digest will prepare this
 information for printing in the Extensions of Remarks section of the 
 Congressional Record on Monday and Wednesday of each week.
   Meetings scheduled for Tuesday, April 9, 2024 may be found in the 
-Daily Digest of today&#x27;s Record.
-
-                           MEETINGS SCHEDULED
+Daily Digest of todays Record.
 
                                 APRIL 10
      9:30 a.m.
@@ -68,7 +46,7 @@ Daily Digest of today&#x27;s Record.
            monitoring technology.
                                                             SD-406
        Committee on Foreign Relations
-         To hold hearings to examine the President&#x27;s proposed 
+         To hold hearings to examine the Presidents proposed 
            budget request for fiscal year 2025 for United States 
            Agency for International Development.
                                                             SD-419
@@ -100,7 +78,7 @@ Daily Digest of today&#x27;s Record.
            land border, S. 3851, to designate the facility of the 
            United States Postal Service located at 90 McCamly 
            Street South in Battle Creek, Michigan, as the 
-           ``Sojourner Truth Post Office&#x27;&#x27;, H.R. 5473, to amend 
+           ``Sojourner Truth Post Office, H.R. 5473, to amend 
            certain laws relating to disaster recovery and relief 
            with respect to the implementation of building codes, 
            H.R. 2754, to designate the facility of the United 
@@ -108,14 +86,14 @@ Daily Digest of today&#x27;s Record.
            Boulevard in Laredo, Texas, as the ``Lance Corporal 
            David Lee Espinoza, Lance Corporal Juan Rodrigo 
            Rodriguez &amp; Sergeant Roberto Arizola Jr. Post Office 
-           Building&#x27;&#x27;, H.R. 3865, to designate the facility of the 
+           Building, H.R. 3865, to designate the facility of the 
            United States Postal Service located at 101 South 8th 
            Street in Lebanon, Pennsylvania, as the ``Lieutenant 
-           William D. Lebo Post Office Building&#x27;&#x27;, and H.R. 3947, 
+           William D. Lebo Post Office Building, and H.R. 3947, 
            to designate the facility of the United States Postal 
            Service located at 859 North State Road 21 in Melrose, 
            Florida, as the ``Pamela Jane Rock Post Office 
-           Building&#x27;&#x27;.
+           Building.
                                                             SD-342
        Committee on the Judiciary
          To hold an oversight hearing to examine the Community 
@@ -130,7 +108,7 @@ Daily Digest of today&#x27;s Record.
                                                             SD-192
        Committee on Banking, Housing, and Urban Affairs
        Subcommittee on Economic Policy
-         To hold hearings to examine MOHELA&#x27;s performance as a 
+         To hold hearings to examine MOHELAs performance as a 
            student loan servicer.
                                                             SD-538
        Committee on Energy and Natural Resources
@@ -159,7 +137,7 @@ Daily Digest of today&#x27;s Record.
            enforcement.
                                                             SD-342
      3:30 p.m.
-       Committee on Veterans&#x27; Affairs
+       Committee on Veterans Affairs
          To hold hearings to examine ensuring equity for women 
            veterans at the VA.
                                                             SR-418
@@ -178,7 +156,7 @@ Daily Digest of today&#x27;s Record.
        Committee on Foreign Relations
        Subcommittee on Western Hemisphere, Transnational Crime, 
            Civilian Security, Democracy, Human Rights, and Global 
-           Women&#x27;s Issues
+           Womens Issues
          To hold hearings to examine countering transnational 
            criminal networks and corruption in the Western 
            Hemisphere.
@@ -192,8 +170,6 @@ Daily Digest of today&#x27;s Record.
            District of California, Eric C. Schulte, and Camela C. 
            Theeler, both to be a United States District Judge for 
            the District of South
-
-[[Page E308]]
 
            Dakota, Nancy L. Maldonado, of Illinois, to be United 
            States Circuit Judge for the Seventh Circuit, Georgia 
@@ -237,7 +213,7 @@ Daily Digest of today&#x27;s Record.
            the Supreme Leader of Iran and the President of Iran 
            and their respective offices for human rights abuses 
            and support for terrorism, S. 2336, to address the 
-           threat from the development of Iran&#x27;s ballistic missile 
+           threat from the development of Irans ballistic missile 
            program and the transfer or deployment of Iranian 
            missiles and related goods and technology, including 
            materials and equipment, S. Res. 505, condemning the 
@@ -269,7 +245,7 @@ Daily Digest of today&#x27;s Record.
            International Communications and Information Policy, 
            with the rank of Ambassador, Jennifer M. Adams, of 
            Virginia, to be Ambassador to the Republic of Cabo 
-           Verde, Courtney Diesel O&#x27;Donnell, of California, to be 
+           Verde, Courtney Diesel ODonnell, of California, to be 
            United States Permanent Representative to the United 
            Nations Educational, Scientific, and Cultural 
            Organization, with the rank of Ambassador, Dorothy 
@@ -306,9 +282,3 @@ Daily Digest of today&#x27;s Record.
          To hold hearings to examine modernizing United States 
            alliances and partnerships in the Indo-Pacific.
                                                             SD-419
-
-
-
-</pre>
-
-
