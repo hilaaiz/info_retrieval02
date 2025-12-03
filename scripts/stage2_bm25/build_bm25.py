@@ -199,7 +199,7 @@ def main():
 
     # === 1. Default Paths ===
     DEFAULT_UK = "UK_british_debates_text_files_normalize"
-    DEFAULT_US = "US_congressional_speeches_Text_Files"
+    DEFAULT_US = "allData_cleaned"
     DEFAULT_OUTPUT = "uk_us_outputs"
 
     UK_FOLDER = input(f"Enter path to UK folder [{DEFAULT_UK}]: ").strip()
@@ -210,6 +210,8 @@ def main():
     UK_FOLDER = UK_FOLDER if UK_FOLDER else DEFAULT_UK
     US_FOLDER = US_FOLDER if US_FOLDER else DEFAULT_US
     OUTPUT_FOLDER = OUTPUT_FOLDER if OUTPUT_FOLDER else DEFAULT_OUTPUT
+    OUTPUT_FOLDER = Path(OUTPUT_FOLDER)
+    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
 
    

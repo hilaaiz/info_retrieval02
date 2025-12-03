@@ -1,18 +1,24 @@
 # stage3_clustering/run_stage3.py
 
+# pip install hdbscan
+
+
 from pathlib import Path
 from scipy.sparse import load_npz
 import numpy as np
 
-from clustering_algorithms import (
+from scripts.stage3_clustering.clustering_algorithms import (
     run_kmeans, run_dbscan, run_hdbscan, run_gmm
 )
 
-from visualization import plot_tsne, plot_umap
+from scripts.stage3_clustering.visualization import (
+    plot_tsne, plot_umap
+)
+
 
 
 def main():
-    BASE = Path("../uk_us_outputs")
+    BASE = Path(r"C:\Users\USER\Desktop\school work\Year 5\info_retrieval02\scripts\uk_us_outputs")
 
     print("Loading BM25 matrix...")
     X = load_npz(BASE / "X_bm25_uk_us.npz")

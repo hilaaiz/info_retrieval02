@@ -27,7 +27,7 @@ def plot_umap(X, labels, title="UMAP Clustering"):
         return
 
     reducer = umap.UMAP(n_components=2, metric="cosine", random_state=42)
-    emb = reducer.fit_transform(X)
+    emb = reducer.fit_transform(X.toarray())
 
     plt.figure(figsize=(8,6))
     plt.scatter(emb[:,0], emb[:,1], c=labels, cmap='tab10', s=8)

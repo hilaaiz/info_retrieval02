@@ -1,0 +1,2 @@
+matrix_name,num_documents,num_features,sparsity,non_zero_elements
+BM25-UK-US,689,20000,91.44131349782293,1179387
