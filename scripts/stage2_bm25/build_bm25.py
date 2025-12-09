@@ -85,47 +85,53 @@ def get_nltk_stopwords():
 # ----------------------------------------------------
 # Load UK / US documents
 # ----------------------------------------------------
-def load_country_documents(uk_folder, us_folder):
+def load_alldata_documents(all_folder):
     """
-    Reads all .txt files from UK and US folders.
-    Returns a DataFrame with: text, country, filename
+    Reads all .txt files from allData folder.
+    Country label is inferred from filename prefix: UK_ / US_
+    Returns DataFrame with: text, country, filename
     """
+    folder = Path(all_folder)
+    if not folder.exists():
+        raise FileNotFoundError(f"Folder not found: {folder}")
 
-    def load_from_folder(folder_path, country_label):
-        folder = Path(folder_path)
-        if not folder.exists():
-            raise FileNotFoundError(f"Folder not found: {folder}")
+    print(f"\n📂 Loading documents from allData: {folder}")
+    txt_files = sorted(list(folder.glob("*.txt")))
+    if not txt_files:
+        raise FileNotFoundError(f"No .txt files found in {folder}")
 
-        print(f"\n📂 Loading {country_label} documents from: {folder}")
-        txt_files = sorted(list(folder.glob("*.txt")))
-        if not txt_files:
-            raise FileNotFoundError(f"No .txt files found in {folder}")
+    rows = []
+    for txt_file in tqdm(txt_files, desc="Loading allData files"):
+        fname = txt_file.name
 
-        rows = []
-        for txt_file in tqdm(txt_files, desc=f"Loading {country_label} files"):
-            try:
-                with open(txt_file, "r", encoding="utf-8") as f:
-                    text = f.read()
-            except Exception as e:
-                print(f"⚠️ Error reading {txt_file.name}: {e}")
-                text = ""
+        # קביעה האם זה UK או US לפי ההתחלה של שם הקובץ
+        if fname.startswith("UK_"):
+            country = "UK"
+        elif fname.startswith("US_"):
+            country = "US"
+        else:
+            print(f"⚠️ Skipping {fname} (no UK_/US_ prefix)")
+            continue
 
-            if text.strip():
-                rows.append({
-                    "text": text,
-                    "country": country_label,
-                    "filename": txt_file.name  # or txt_file.stem if you prefer
-                })
+        try:
+            with open(txt_file, "r", encoding="utf-8") as f:
+                text = f.read()
+        except Exception as e:
+            print(f"⚠️ Error reading {fname}: {e}")
+            text = ""
 
-        return rows
+        if text.strip():
+            rows.append({
+                "text": text,
+                "country": country,
+                "filename": fname,
+            })
 
-    uk_rows = load_from_folder(uk_folder, "UK")
-    us_rows = load_from_folder(us_folder, "US")
-
-    df = pd.DataFrame(uk_rows + us_rows)
-    print(f"\n✅ Total documents loaded: {len(df)}")
+    df = pd.DataFrame(rows)
+    print(f"\n✅ Total documents loaded from allData: {len(df)}")
     print(df["country"].value_counts())
     return df
+
 
 
 # ----------------------------------------------------
@@ -192,26 +198,26 @@ def build_bm25_matrix(documents, stopwords_set,
 def main():
     print("""
 ╔══════════════════════════════════════════════════════════════╗
-║   Step 1: Shared BM25 Matrix for UK + US                     ║
+║   Step 2: Shared BM25 Matrix for UK + US                     ║
 ║   (One vocabulary, labels = country, full mapping)           ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
-    # === 1. Default Paths ===
-    DEFAULT_UK = "UK_british_debates_text_files_normalize"
-    DEFAULT_US = "allData_cleaned"
+    DEFAULT_ALLDATA = "allData"
     DEFAULT_OUTPUT = "uk_us_outputs"
 
-    UK_FOLDER = input(f"Enter path to UK folder [{DEFAULT_UK}]: ").strip()
-    US_FOLDER = input(f"Enter path to US folder [{DEFAULT_US}]: ").strip()
+    ALLDATA_FOLDER = input(f"Enter path to allData folder [{DEFAULT_ALLDATA}]: ").strip()
     OUTPUT_FOLDER = input(f"Enter path for output folder [{DEFAULT_OUTPUT}]: ").strip()
 
-    # If user just pressed Enter → use defaults
-    UK_FOLDER = UK_FOLDER if UK_FOLDER else DEFAULT_UK
-    US_FOLDER = US_FOLDER if US_FOLDER else DEFAULT_US
+    # אם המשתמש לוחץ Enter – להשתמש בברירת המחדל
+    ALLDATA_FOLDER = ALLDATA_FOLDER if ALLDATA_FOLDER else DEFAULT_ALLDATA
     OUTPUT_FOLDER = OUTPUT_FOLDER if OUTPUT_FOLDER else DEFAULT_OUTPUT
+
+    # להפוך ל-Path ולוודא שהתיקייה קיימת
+    ALLDATA_FOLDER = Path(ALLDATA_FOLDER)
     OUTPUT_FOLDER = Path(OUTPUT_FOLDER)
     OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
 
 
    
@@ -219,8 +225,8 @@ def main():
     # === 2. Stopwords ===
     nltk_stopwords = get_nltk_stopwords()
 
-    # === 3. Load UK + US documents into ONE DataFrame ===
-    df = load_country_documents(UK_FOLDER, US_FOLDER)
+    # === 3. Load ALL documents from allData into ONE DataFrame ===
+    df = load_alldata_documents(ALLDATA_FOLDER)
     df = df.reset_index(drop=True)
     df["row_index"] = df.index  # mapping row -> doc
 
