@@ -15,7 +15,12 @@ from .evaluation import evaluate_clustering
 # ----------------------------------------------------------
 def run_kmeans(X, y):
     print("\n=== K-MEANS ===")
-    km = KMeans(n_clusters=2, random_state=42)
+    km = KMeans(
+        n_clusters=2,
+        random_state=42,
+        n_init=20,      # default=10, improve stability
+        max_iter=500    # allow deeper convergence
+    )
     labels = km.fit_predict(X)
     return labels, evaluate_clustering(y, labels)
 
@@ -61,7 +66,8 @@ def run_gmm(X, y):
     print("\n=== GMM ===")
     gmm = GaussianMixture(
         n_components=2,
-        covariance_type="diag",  # MUCH faster (valid for homework)
+        covariance_type="diag",  # MUCH faster (valid for homework
+        max_iter=300,
         random_state=42
     )
     labels = gmm.fit_predict(X.toarray())

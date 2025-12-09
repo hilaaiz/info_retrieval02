@@ -16,13 +16,13 @@ from scripts.stage3_clustering.visualization import (
 )
 
 
-
 def main():
-    BASE = Path(r"C:\Users\USER\Desktop\school work\Year 5\info_retrieval02\scripts\uk_us_outputs")
+    BASE = Path("scripts/uk_us_outputs")
+
 
     print("Loading BM25 matrix...")
     X = load_npz(BASE / "X_bm25_uk_us.npz")
-    y = np.load(BASE / "y_labels_num.npy")
+    y = np.load(r"C:\Users\USER\Desktop\school work\Year 5\info_retrieval02\y_labels_num.npy")
 
     print(f"X shape: {X.shape}")
     print(f"y length: {len(y)}")
