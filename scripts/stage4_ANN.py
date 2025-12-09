@@ -12,8 +12,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from pathlib import Path
 import matplotlib.pyplot as plt
 
-# --- 0. הגדרות נתיבים ופרמטרים קריטיים ---
-# הנחה: קבצים אלו נמצאים בתיקייה הראשית INFO_RETRIEVAL02
+#  הגדרות נתיבים ופרמטרים קריטיים ---
 METADATA_PATH = Path('documents_metadata.csv') 
 Y_LABELS_PATH = Path('y_labels_num.npy') 
 
